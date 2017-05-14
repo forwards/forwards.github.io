@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on FORWARDS</title>
+    <link>//forwards.github.io/index.xml</link>
+    <description>Recent content in Categories on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Forwards. Powered by [blogdown](https://github.com/rstudio/blogdown)/[Hugo](//gohugo.io). Theme based on Icarus by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Sat, 11 Mar 2017 16:37:43 +0000</lastBuildDate>
+    <atom:link href="//forwards.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analysis</title>
+      <link>//forwards.github.io/categories/analysis/</link>
+      <pubDate>Sat, 11 Mar 2017 16:37:43 +0000</pubDate>
+      
+      <guid>//forwards.github.io/categories/analysis/</guid>
+    <description>
+</description>
+    </item>
+    
+    <item>
+      <title>Interviews</title>
+      <link>//forwards.github.io/categories/interviews/</link>
+      <pubDate>Tue, 07 Feb 2017 19:26:36 +0000</pubDate>
+      
+      <guid>//forwards.github.io/categories/interviews/</guid>
+    <description>
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>//forwards.github.io/categories/news/</link>
+      <pubDate>Fri, 13 Jan 2017 13:07:01 +0000</pubDate>
+      
+      <guid>//forwards.github.io/categories/news/</guid>
+    <description>
+</description>
+    </item>
+    
+  </channel>
+</rss>
