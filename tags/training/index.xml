@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>training on FORWARDS</title>
+    <link>https://forwards.github.io/tags/training/</link>
+    <description>Recent content in training on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Southern Africa Project 2020</title>
+      <link>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</guid>
+      <description>Using the satRday Johannesburg 2020 conference as a springboard, Forwards set up a project to help build the R community in Southern Africa. With funding from the Why R? Foundation, the R Consortium and a crowd-funding campaign, Forwards collaborated with local R users to run a series of training and community events in South Africa, Eswatini and Botswana. All the events promoted AfricaR, the pan-African network of R users, to help raise awareness of this community among R users in Southern Africa.</description>
+    </item>
+    
+    <item>
+      <title>Girls Coding Workshop, Melbourne</title>
+      <link>https://forwards.github.io/blog/2017/11/20/girls-coding-workshop-melbourne/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/11/20/girls-coding-workshop-melbourne/</guid>
+      <description>The first girls R coding workshop was held at the Kathleen Symes library in Melbourne, Nov Oct 28, 2017. The girls learned about tidy data concepts, wrangling data tools, and built a shiny app to explore standardised test data from the 2015 OECD Programme for International Student Achievement. One of the apps developed can be viewed at https://t.co/zlw3HGzOaR.
+And we had lamingtons, upside down R cupcakes (R downunder) for morning tea, and pizzas for lunch.</description>
+    </item>
+    
+  </channel>
+</rss>

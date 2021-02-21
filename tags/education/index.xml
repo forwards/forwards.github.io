@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on FORWARDS</title>
+    <link>https://forwards.github.io/tags/education/</link>
+    <description>Recent content in education on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recap of R-Ladies Charlottesville Forwards Workshop</title>
+      <link>https://forwards.github.io/blog/2019/11/22/recap-of-r-ladies-charlottesville-forwards-workshop/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2019/11/22/recap-of-r-ladies-charlottesville-forwards-workshop/</guid>
+      <description>On September 8, 2019, Samantha Toet and Angela Li co-taught a 3-hour Forwards Package Development Workshop at a weekend R-Ladies Charlottesville Meetup.
+The workshop took place as a result of Angela being in town - she reached out to Sam and suggested the workshop, Sam thought it was a good idea, and they worked together to coordinate the logistics (all Sam!) and teaching. By using the Forwards curriculum and pre-made organizing templates - with a few tweaks of their own, of course - they were able to pull together the workshop in a month.</description>
+    </item>
+    
+    <item>
+      <title>Workshops for Women and Girls</title>
+      <link>https://forwards.github.io/blog/2019/09/22/workshops-for-women-and-girls/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2019/09/22/workshops-for-women-and-girls/</guid>
+      <description>Thanks to generous funding from the R Consortium, Forwards has offered a series of workshops around the world to support the development of coding skills and to increase the participation of women in the R community. In the last year and a half, more than 10 workshops have engaged more than 100 high school students and women in Australia, New Zealand, Europe and the USA. Information about our series of workshops for women and girls can be found on the Edu section of the Forwards website.</description>
+    </item>
+    
+    <item>
+      <title>HavanaR Workshop 2018</title>
+      <link>https://forwards.github.io/blog/2018/07/07/havanar/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2018/07/07/havanar/</guid>
+      <description>The first meeting of R users in Cuba, HavanaR! Club 2018, will take place from 29-10-2018 to 02-11-2018. The workshop is organized jointly by the Group of Probability and Statistics of Universidad de La Habana, the &amp;gt;eR-Biostat initiative, the Center for Statistics, CenStat &amp;amp; I-Biostat, Hasselt University, Belgium and Forwards.
+The workshop will focus on visualisation methods and exploratory analysis of high dimensional and multivariate datasets.
+Program:
+29-Oct: Basic concepts of exploratory data analysis using R.</description>
+    </item>
+    
+  </channel>
+</rss>

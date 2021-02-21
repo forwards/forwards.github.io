@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>action on FORWARDS</title>
+    <link>https://forwards.github.io/tags/action/</link>
+    <description>Recent content in action on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/tags/action/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#BlackLivesMatter: A joint statement by Forwards and R-Ladies</title>
+      <link>https://forwards.github.io/blog/2020/06/06/blacklivesmatter-a-joint-statement-by-forwards-and-r-ladies/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2020/06/06/blacklivesmatter-a-joint-statement-by-forwards-and-r-ladies/</guid>
+      <description>As organizations committed to broadening diversity and inclusion in our community, we stand with #BlackLivesMatter and join those who demand justice for systemic oppression. Pervasive racism negatively impacts the participation of Black people in society. The current events in the USA echo what has happened and continues to happen to minoritised people across the world. We are aggregating resources and are taking deliberate actions to amplify the voices of Black, Indigenous and People of Color in the R community now and moving forward.</description>
+    </item>
+    
+    <item>
+      <title>Call to Join Forwards</title>
+      <link>https://forwards.github.io/blog/2017/01/13/call-to-join-forwards/</link>
+      <pubDate>Fri, 13 Jan 2017 13:07:01 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/01/13/call-to-join-forwards/</guid>
+      <description>Forwards, the R Foundation taskforce on women and other under-represented groups, is seeking to address issues affecting under-represented groups in general as it works to broaden the participation of women in the R community.
+In order to adequately address such issues, we would like to widen the diversity of the taskforce itself. Accordingly, we are inviting people who are part of under-represented groups - be they groups identified by race, gender, sexuality, class or disability - to join us.</description>
+    </item>
+    
+  </channel>
+</rss>

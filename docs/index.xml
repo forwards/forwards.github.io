@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on FORWARDS</title>
+    <link>https://forwards.github.io/docs/</link>
+    <description>Recent content in Docs on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>useR! 2016 participants and the R community: a multivariate analysis</title>
+      <link>https://forwards.github.io/docs/mca_community_user2016_survey/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/docs/mca_community_user2016_survey/</guid>
+      <description>Introduction Background The useR! survey gathers responses to questions on different themes for 455 attendees: demographic characteristics, R programming and involvement in the R community. The separate analyses of each question in each theme are detailed in the posts Mapping useRs, useRs Relationship with R and Community Involvement of useRs. A multivariate analysis of the R programming questions is detailed in a companion report. Here, we perform MCA on the R community questions.</description>
+    </item>
+    
+    <item>
+      <title>useR! 2016 participants and R programming: a multivariate analysis</title>
+      <link>https://forwards.github.io/docs/mca_programming_user2016_survey/</link>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/docs/mca_programming_user2016_survey/</guid>
+      <description>Introduction Background The useR! survey gathers responses to questions on different themes for 455 attendees: demographic characteristics, R programming and involvement in the R community. The separate analyses of each question in each theme are detailed in the posts Mapping useRs, useRs Relationship with R and Community Involvement of useRs. Here, we aim at understanding attendees&#39; joint responses to the questions of the survey for a given theme. In other words, we would like to highlight the relationships between their answers, as well as to highlight the similarities between the respondents.</description>
+    </item>
+    
+    <item>
+      <title>Non-response in useR! 2016 Survey</title>
+      <link>https://forwards.github.io/docs/nonresponse_user2016_survey/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/docs/nonresponse_user2016_survey/</guid>
+      <description>Background The useR! survey received a total of 455 responses out of 904 attendees. Anticipating a high proportion of non-response, questions were included in the survey on participants&#39; gender, registration type and country of residence, with a view to adjusting observed counts in each cross-classified group to match the proportions in the total useR! 2016 population. Unfortunately the country of residence was not recorded during registration and could not be reliably derived from available information such as affiliation.</description>
+    </item>
+    
+  </channel>
+</rss>

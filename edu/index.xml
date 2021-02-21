@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FORWARDS</title>
+    <link>https://forwards.github.io/edu/</link>
+    <description>Recent content on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://forwards.github.io/edu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://forwards.github.io/edu/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/edu/workshops/</guid>
+      <description>Workshops for Women and Girls Overview Thanks to generous funding from the R Consortium, Forwards is pleased to offer the following workshops to support the development of coding skills and increase the participation of women in the R community:
+  Workshops for women are designed for women with some R coding experience who wish to learn more about package development, thereby addressing the skills gap that exists within the R community.</description>
+    </item>
+    
+    <item>
+      <title>Brisbane Event</title>
+      <link>https://forwards.github.io/edu/brisbane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/edu/brisbane/</guid>
+      <description>ACEMS and foRwards R Coding Workshop for High School Girls Date and Time: Saturday, March 30, 2019 from 10:00 am–4:30 pm Sponsor: FORWARDS and ACEMS R Foundation taskforce on women and other under-represented groups
+Location River City Labs
+ Registration Deadline: Tuesday, March 26 This workshop is open to high school girls in year 11 who are interested in STEM, coding, and data analysis. No prior coding experience required.
+APPLY NOW!</description>
+    </item>
+    
+    <item>
+      <title>Forwards Package Development Workshop, York</title>
+      <link>https://forwards.github.io/edu/york/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/edu/york/</guid>
+      <description>Package Development Workshop for women and other underrepresented groups Date: Tuesday, 7th January, 2020, 10:30-15:30 Location: University of York Forwards is the R Foundation taskforce on women and other under-represented groups and we are offering a free workshop designed for people who use R coding and want to learn more about creating impact from their code. It will cover package contribution and development thus addressing the skills gap that exists within the R and scientific coding community.</description>
+    </item>
+    
+  </channel>
+</rss>

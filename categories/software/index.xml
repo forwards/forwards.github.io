@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on FORWARDS</title>
+    <link>https://forwards.github.io/categories/software/</link>
+    <description>Recent content in software on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Southern Africa Project 2020</title>
+      <link>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</guid>
+      <description>Using the satRday Johannesburg 2020 conference as a springboard, Forwards set up a project to help build the R community in Southern Africa. With funding from the Why R? Foundation, the R Consortium and a crowd-funding campaign, Forwards collaborated with local R users to run a series of training and community events in South Africa, Eswatini and Botswana. All the events promoted AfricaR, the pan-African network of R users, to help raise awareness of this community among R users in Southern Africa.</description>
+    </item>
+    
+    <item>
+      <title>Recap of R-Ladies Charlottesville Forwards Workshop</title>
+      <link>https://forwards.github.io/blog/2019/11/22/recap-of-r-ladies-charlottesville-forwards-workshop/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2019/11/22/recap-of-r-ladies-charlottesville-forwards-workshop/</guid>
+      <description>On September 8, 2019, Samantha Toet and Angela Li co-taught a 3-hour Forwards Package Development Workshop at a weekend R-Ladies Charlottesville Meetup.
+The workshop took place as a result of Angela being in town - she reached out to Sam and suggested the workshop, Sam thought it was a good idea, and they worked together to coordinate the logistics (all Sam!) and teaching. By using the Forwards curriculum and pre-made organizing templates - with a few tweaks of their own, of course - they were able to pull together the workshop in a month.</description>
+    </item>
+    
+    <item>
+      <title>Workshops for Women and Girls</title>
+      <link>https://forwards.github.io/blog/2019/09/22/workshops-for-women-and-girls/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2019/09/22/workshops-for-women-and-girls/</guid>
+      <description>Thanks to generous funding from the R Consortium, Forwards has offered a series of workshops around the world to support the development of coding skills and to increase the participation of women in the R community. In the last year and a half, more than 10 workshops have engaged more than 100 high school students and women in Australia, New Zealand, Europe and the USA. Information about our series of workshops for women and girls can be found on the Edu section of the Forwards website.</description>
+    </item>
+    
+  </channel>
+</rss>

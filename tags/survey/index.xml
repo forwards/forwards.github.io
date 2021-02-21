@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey on FORWARDS</title>
+    <link>https://forwards.github.io/tags/survey/</link>
+    <description>Recent content in survey on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>useRs Participation in the R Community</title>
+      <link>https://forwards.github.io/blog/2017/06/19/users-participation-in-the-r-community/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/06/19/users-participation-in-the-r-community/</guid>
+      <description>In our first and second posts on the useR! 2016 survey we discussed the responses from the demographic and programming sections. The main findings were:
+ The useR! 2016 attendees were predominantly men, typically under 40, White/Caucasian and employed full-time. Women attendees tended to be younger, with less programming experience and lower involvement in package development. Most useRs had a generally positive view of R, finding it fun to use, but women were less likely than men to code recreationally.</description>
+    </item>
+    
+    <item>
+      <title>useRs Relationship with R</title>
+      <link>https://forwards.github.io/blog/2017/03/11/users-relationship-with-r/</link>
+      <pubDate>Sat, 11 Mar 2017 16:37:43 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/03/11/users-relationship-with-r/</guid>
+      <description>In our first post on the useR! 2016 survey we discussed the responses from the demographic section, finding in particular that:
+ The useR! 2016 attendees were predominately men, typically under 40, White/Caucasian and employed full-time. Women attendees tended to be younger and less advanced in their careers. Non-Asian minority races and LGBT individuals were under-represented. Approximately a quarter of attendees were caregivers.  We now turn to look at useRs relationship with R: what experience do they have in using R and what do they think of R?</description>
+    </item>
+    
+    <item>
+      <title>Mapping useRs</title>
+      <link>https://forwards.github.io/blog/2017/01/13/mapping-users/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/01/13/mapping-users/</guid>
+      <description>Every year, hundreds of R programmers descend on a host city and spend three or four days sharing work, collaborating on projects and making new contacts - the useR! conference, this year held in Stanford, CA. useR! offers a wonderful opportunity to map a subset of the language&amp;rsquo;s most active users and the Women in R Task Force took this opportunity to survey attendees and find out their backgrounds, experiences and interests, in the hope that it will help us to get a better understanding of how to make the R community a more inclusive environment.</description>
+    </item>
+    
+  </channel>
+</rss>

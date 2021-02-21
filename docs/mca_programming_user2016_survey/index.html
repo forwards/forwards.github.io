@@ -1,0 +1,972 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    
+    <meta name="generator" content="Hugo 0.79.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    
+    <meta property="og:type" content="article" >
+    <meta property="og:url" content="https://forwards.github.io/docs/mca_programming_user2016_survey/" >
+    
+      
+        
+       <title>UseR! 2016 Participants and R Programming: A Multivariate Analysis - FORWARDS</title>
+       <meta property="og:title" content="useR! 2016 participants and R programming: a multivariate analysis">
+       
+      
+        <meta name="twitter:card" content="summary">
+        <meta property="og:image" content="https://forwards.github.io/apple-touch-icon.png" >
+        <meta property="og:image:alt" content="Forwards logo" >
+      
+      
+    
+    <meta property="author" content="Julie Josse and Heather Turner" />
+    
+      <meta property="description" content="R Foundation taskforce on women and other under-represented groups.">
+      <meta property="og:description" content="R Foundation taskforce on women and other under-represented groups.">
+    
+    
+    
+    <link rel="canonical" href="https://forwards.github.io/docs/mca_programming_user2016_survey/"/>
+    <link rel="icon" href="https://forwards.github.io/favicon.ico">
+    <link rel="apple-touch-icon" href="https://forwards.github.io/apple-touch-icon.png"/>
+    <link rel="stylesheet" href="https://forwards.github.io/css/style.css">
+    <link rel="stylesheet" href="https://forwards.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://forwards.github.io/css/monokai.css">
+    
+    
+    <link rel="stylesheet" href="https://forwards.github.io/css/custom.css">
+    
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    
+    
+    <meta itemprop="name" content="useR! 2016 participants and R programming: a multivariate analysis">
+<meta itemprop="description" content="Introduction Background The useR! survey gathers responses to questions on different themes for 455 attendees: demographic characteristics, R programming and involvement in the R community. The separate analyses of each question in each theme are detailed in the posts Mapping useRs, useRs Relationship with R and Community Involvement of useRs. Here, we aim at understanding attendees&#39; joint responses to the questions of the survey for a given theme. In other words, we would like to highlight the relationships between their answers, as well as to highlight the similarities between the respondents.">
+<meta itemprop="datePublished" content="2017-06-17T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2017-06-17T00:00:00+00:00" />
+<meta itemprop="wordCount" content="2948">
+
+
+
+<meta itemprop="keywords" content="" />
+
+    
+
+    
+
+    
+    
+    <link rel="stylesheet" href="https://forwards.github.io/css/bulma-navbar.css"> 
+    <script async type="text/javascript" src="https://forwards.github.io/js/bulma.js"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
+<script>
+$(document).ready(function ()  {
+
+    
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.article-entry',
+      hashGenerator: function (text) {
+        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 70
+    };
+    options.showAndHide = true;
+    options.showAndHideOnScroll = true;
+    options.smoothScroll = true;
+
+    
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+</head>
+<body>
+<div class="container">
+
+
+<div id="container">
+	<div class = "nav-background"></div>
+      
+      <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+        
+        
+      <div class="navbar-brand">
+        
+      
+        <a class="navbar-item" href="https://forwards.github.io/" id="logo">
+          
+          <span class="site-title">FORWARDS</span>
+        </a>
+
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      
+      <div id="navbarBasicExample" class="navbar-menu">
+      
+    <div class="navbar-start">
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/about/">About</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/blog/">Blog</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/community/">Community</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/conferences/">Conferences</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/edu/">Education</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/contribution/">Contribution</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/data/">Data</a>
+          
+      
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Other
+        </a>
+
+        <div class="navbar-dropdown">
+          
+            
+            <a class="navbar-item" href="https://forwards.github.io/docs/">Reports</a>
+            
+          
+            
+            <a class="navbar-item" href="https://forwards.github.io/privacy_policy/">Privacy Policy</a>
+            
+          
+        </div>
+      </div>
+    </div>
+
+   
+    <div class="navbar-end">
+    </div>
+  </div>
+</nav>
+
+   	<div class="outer">
+   	    <aside id="profile">
+  <div class="inner profile-inner">
+    <div class="base-info profile-block">
+      
+      <img id="avatar" src="https://forwards.github.io/images/forwards.svg">
+      
+      
+      <span id="name">R Foundation taskforce on women and other under-represented groups</span>
+      
+      
+      
+      
+    </div>
+
+    <div class="profile-block social-links">
+      <table>
+        <tr>
+          
+<td><a href="//github.com/forwards" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td><a href="//twitter.com/R_Forwards" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
+
+
+          <td><a href="https://forwards.github.io/index.xml" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
+        </tr>
+      </table>
+    </div>
+    
+    
+    
+  </div>
+</aside>
+
+	    
+<section id="main" class="no-sidebar">
+    <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+                <header class="article-header">
+                    <h1 class="article-title" itemprop="name">
+                        useR! 2016 participants and R programming: a multivariate analysis
+                    </h1>
+                    <p class = "article-author">Julie Josse and Heather Turner</p>
+                    
+                    <time class = "article-date" datetime="2017-06-17 00:00:00 &#43;0000 UTC" itemprop="datePublished">2017-06-17</time>
+                    
+                </header>
+            
+            <div class="article-entry" itemprop="articleBody">
+                <h2 id="introduction">Introduction</h2>
+<h3 id="background">Background</h3>
+<p>The useR! survey gathers responses to questions on different themes for 455 attendees: demographic characteristics, R programming and involvement in the R community. The separate analyses of each question in each theme are detailed in the posts <a href="https://forwards.github.io/blog/2017/01/13/mapping-users/">Mapping useRs</a>,  <a href="https://forwards.github.io/blog/2017/03/11/users-relationship-with-r/">useRs Relationship with R</a> and <a href="https://forwards.github.io/blog/2017/06/19/users-participation-in-the-r-community/">Community Involvement of useRs</a>. Here, we aim at understanding attendees' joint responses to the questions of the survey for a given theme. In other words, we would like to highlight the relationships between their answers, as well as to highlight the similarities between the respondents.
+Multiple correspondence analysis (MCA) is a dimensionality reduction method which allows to explore and visualize a set of categorical variables. It can be seen as the counterpart of PCA for categorical data. The aim of this document is to go beyond univariate analyses and to present the results of a multivariate analyses of the R programming questions using MCA. A corresponding analysis of the R community questions is detailed in <a href="https://forwards.github.io/docs/mca_community_user2016_survey/">a companion report</a>.</p>
+<h3 id="questions">Questions</h3>
+<p>We base our study on the following questions:</p>
+<h4 id="demography">Demography</h4>
+<ul>
+<li>Q1  What did you register as at useR! 2016?</li>
+<li>Q2  What is your gender?</li>
+<li>Q3  In what year were you born?</li>
+<li>Q4  To what racial or ethnic group(s) do you identify?</li>
+<li>Q5  In what country do you currently reside?</li>
+<li>Q6  Do you identify as LGBT (Lesbian, Gay, Bisexual, Asexual and/or Transgender)?</li>
+<li>Q7  What is the highest level of education you have completed?</li>
+<li>Q8  What is your current (primary) employment status?</li>
+<li>Q9  Is your current job full-time or part-time?</li>
+<li>Q10 Are you a caregiver for children or adult dependents on a regular basis?</li>
+</ul>
+<h4 id="r-programming">R programming</h4>
+<ul>
+<li>Q11 How long have you been using R for?</li>
+<li>Q12 Did you have previous programming experience before beginning to use R?</li>
+<li>Q13 Which of the following do you do? Tick any that apply among
+<ul>
+<li>Q13A I use functions from existing R packages to analyze data</li>
+<li>Q13B I write R code designed to make my work easier, such as loops or conditionals or functions</li>
+<li>Q13C I write R functions for use by myself or my collaborators</li>
+<li>Q13D I contribute to R packages (on CRAN or elsewhere)</li>
+<li>Q13E I have written my own R package</li>
+<li>Q13F I have written my own R package and released it on CRAN or Bioconductor (or shared it on GitHub, R-Forge or similar platforms)</li>
+</ul>
+</li>
+<li>Q14 Do you use R as a recreational activity, primarily as part of a job or both?</li>
+<li>Q15 How much do you agree or disagree with the following statements?
+<ul>
+<li>Q15A Writing R is fun</li>
+<li>Q15B Writing R is considered cool or interesting by my peers?</li>
+<li>Q15C Writing R is a monotonous task</li>
+<li>Q15D Writing R is difficult</li>
+</ul>
+</li>
+<li>Q16 Would you recommend R to friends or colleagues as a programming language to learn?</li>
+<li>Q17 What would be your number one argument for/against learning R?</li>
+</ul>
+<p>Questions Q1-Q10 focus on the demographic characteristics of the respondents while questions Q11, Q13 and Q14 are related to the use of R, and questions Q15 to Q17 to the perception of R. Note that Q12 is about programming in general and not specifically dedicated to R.</p>
+<p>We first focus on the topic &ldquo;uses of R&rdquo; and we will consider the perception questions in a second step.
+The demographic questions are also used in the analysis in order to help in the interpretation and to describe the profile of R programming answers.</p>
+<h3 id="coding">Coding</h3>
+<p>Questions Q1, Q5 and Q17 have a category of answer <em>Other (please specify)</em>.
+The &ldquo;free&rdquo; answers have been gathered in different categories and included as new categories in the questions. The new variables (with more levels) are named Q1_new, Q5_new and Q17_new. In addition, some categories name have been modified to make them easily understandable.</p>
+<p>Note that questions Q13_A to Q13_F are answered by ticking one box indicating that the respondent agrees with the category. Consequently, if a box is unchecked, it is impossible to know if they disagree or if they don&rsquo;t answer the question. Such responses are recoded as <em>yes</em> if the box is checked and recoded as <em>no</em> otherwise.</p>
+<h2 id="analysis-of-the-uses-of-r">Analysis of the uses of R</h2>
+<p>The following graphic summarizes relationships between the answers to the &ldquo;uses of R&rdquo; questions.  To interpret the main dimensions of variability in the response profiles, we base our analysis on the proximities between categories. Two categories are close on the graph when individuals who have selected the first category also tend to take the other category.</p>
+<p><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-3-1.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" style="display: block; margin: auto;" /></p>
+<p>Proximities between categories Q11.NA and Q14.NA indicate that people who did not answer Q11 (How long have you been using R for?) often did not answer Q14 (Do you use R as a recreational activity, primarily as part of a job or both?). However, it only concerns 16 individuals.</p>
+<p>We can see on the graph a gradient which shows the relationship between the question Q11 related to the experience in R programming and the question Q13 related to the use of R, with people on the right, who have recently started using R, and people on the left, who have used R for a long time.
+In particular, the users with more than 10 years' experience have already written their own package or contributed to packages, while people with less than 2 years' experience haven&rsquo;t. The gradient can be clearly interpreted and shows the progression in gaining new skills.</p>
+<p>The beginners in R seem to be trying R during their free time. This is less true for experienced users who have probably gained their experience during their job.
+Note that beginners in R are very few among respondents (9 people with less than 6 months' experience).</p>
+<p>The graph of the individuals allows identification of the individuals located at the top right who do not answer some questions. These individuals did not answer any of the questions related to their use of R but answered the demographic questions. Interestingly, one of them indicated they just discovered R (in the text answer Q25). This explanation could also be valid for the other ones, explaining why they agree to participate to the study, yet only answer a few questions. This comment is in line with the previous graph, in which  categories <em>NA</em> are on the right, which is the location of inexperienced users.</p>
+<h2 id="analysis-of-the-perception-of-the-r-programming-language">Analysis of the perception of the R programming language</h2>
+<p><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-5-1.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" style="display: block; margin: auto;" /></p>
+<p>The analysis of questions related to the perception of the R language (Q15, Q16, Q17) shows again that attendees who did not answer one question often did not answer others (1st dimension). More interestingly, the second dimension of the graph highlights that people thinking very strongly that R is monotonous also think that it is not fun, not cool, or even think R is poor. It highlights that among respondents there is a sub-population of people who do not appreciate R. However, it concerns around 10 individuals.</p>
+<p>Interestingly, these respondents tend to recommend R to a friend as a programming language to learn, so that they recognize some interest.</p>
+<h2 id="perception-and-uses-of-r">Perception and uses of R</h2>
+<p>Does the perception of the R language differ according to the experience of the user? To answer this question,
+the perception variables are projected as supplementary variables on the graph obtained with the &ldquo;uses of R&rdquo; variables. Supplementary variables are not used to build the dimensions of variability, they are projected <em>a posteriori</em> and help for the interpretation.</p>
+<p><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-7-1.png" title="plot of chunk unnamed-chunk-7" alt="plot of chunk unnamed-chunk-7" style="display: block; margin: auto;" /></p>
+<p>We note that experienced users particularly appreciate R. They find that R is fun, not monotonous and they recommend to use it.</p>
+<h2 id="relationship-with-demographic">Relationship with demographic</h2>
+<p><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-8-1.png" title="plot of chunk unnamed-chunk-8" alt="plot of chunk unnamed-chunk-8" style="display: block; margin: auto;" /></p>
+<p>Demographic variables are also projected as supplementary variables. We excluded the ethnic group variable (Q4) and the country of residence variable (Q5) because of the large number of infrequent categories. The graph above shows that the demographic characteristics are significantly related to the user profiles. An analysis of variance with demographic variables as covariates, and the coordinates of the individuals on the dimensions as explanatory variables, has been performed<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. The graph shows that people with a doctorate are more highly represented among advanced users.  This also shows that men are more highly represented than women among the most advanced users. As stated in the post <a href="https:://forwards.github.io/blog/2017/03/11/users-relationship-with-r/">useRs Relationship with R</a>, it could be explained by the fact that women tend to be younger, but here we note that the variable Age does not significantly explain the coordinates of the individuals on the graph.
+To get more insight into this possible confounding effect, we created a variable sex-age and represent it. The plot confirms that men are over-represented amongst the advanced users.</p>
+<p><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-9-1.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" style="display: block; margin: auto;" /><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-9-2.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" style="display: block; margin: auto;" /></p>
+<h2 id="similarities-between-respondents">Similarities between respondents</h2>
+<p>The participants are clustered according to their answers to the uses of R questions only (Q11, Q13, Q14).
+To do this, a hierarchical clustering is performed on K principal components of the MCA.  The rationale is to improve the stability of the clustering by building it from denoised data.</p>
+<p>Several rules can be used to select the number of components used for the clustering. Here we choose 12 dimensions which corresponds to 95% of the projected inertia (variance) of the data.</p>
+<p><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-12-1.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" style="display: block; margin: auto;" /></p>
+<p>The number of clusters is chosen according to the barplot of the inertia gains<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> which suggests 3 clusters.</p>
+<p>However, since a cluster with non-respondents is expected, we consider 4 clusters to have a more interpretable clustering.</p>
+<p><img src="/images/reports/MCA_programming_useR2016_survey/unnamed-chunk-13-1.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" style="display: block; margin: auto;" /></p>
+<p>The first cluster located on the left represent the experienced users while the second cluster gathers the intermediate users and the third one the beginners. The fourth cluster is constituted with people who did not  answer.</p>
+<p>The size of each cluster is as follows:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:right">1</th>
+<th style="text-align:right">2</th>
+<th style="text-align:right">3</th>
+<th style="text-align:right">4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">size</td>
+<td style="text-align:right">171</td>
+<td style="text-align:right">260</td>
+<td style="text-align:right">11</td>
+<td style="text-align:right">13</td>
+</tr>
+<tr>
+<td style="text-align:left"><em>i.e.</em> in terms of proportions:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:right">1</th>
+<th style="text-align:right">2</th>
+<th style="text-align:right">3</th>
+<th style="text-align:right">4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">proportion</td>
+<td style="text-align:right">0.38</td>
+<td style="text-align:right">0.57</td>
+<td style="text-align:right">0.02</td>
+<td style="text-align:right">0.03</td>
+</tr>
+</tbody>
+</table>
+<p>We now interpret the clusters.</p>
+<h3 id="cluster-1">Cluster 1</h3>
+<p>To help us describing the first cluster, we use statistical tests to compare the proportion of each category in the cluster versus the proportion in the population of the respondents. Of course, for variables that have been used to build the clusters (Q11, Q13, Q14), this test is only indicative, but for others (demographic questions or perception questions), the p.values can be interpreted.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:right">Cla/Mod</th>
+<th style="text-align:right">Mod/Cla</th>
+<th style="text-align:right">Global</th>
+<th style="text-align:right">p.value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Q13_F=rel_pkg_yes</td>
+<td style="text-align:right">96.77</td>
+<td style="text-align:right">87.72</td>
+<td style="text-align:right">34.07</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_D=ctb_pkg_yes</td>
+<td style="text-align:right">88.37</td>
+<td style="text-align:right">88.89</td>
+<td style="text-align:right">37.80</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_E=wrt_pkg_yes</td>
+<td style="text-align:right">71.85</td>
+<td style="text-align:right">100.00</td>
+<td style="text-align:right">52.31</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_C=wrt_func_yes</td>
+<td style="text-align:right">42.93</td>
+<td style="text-align:right">97.66</td>
+<td style="text-align:right">85.49</td>
+<td style="text-align:right">3.5e-10</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_B=wrt_code_yes</td>
+<td style="text-align:right">42.35</td>
+<td style="text-align:right">97.08</td>
+<td style="text-align:right">86.15</td>
+<td style="text-align:right">1.4e-08</td>
+</tr>
+<tr>
+<td style="text-align:left">Q2=Men</td>
+<td style="text-align:right">46.64</td>
+<td style="text-align:right">77.19</td>
+<td style="text-align:right">62.20</td>
+<td style="text-align:right">2.2e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q7=Doctorate</td>
+<td style="text-align:right">50.75</td>
+<td style="text-align:right">59.06</td>
+<td style="text-align:right">43.74</td>
+<td style="text-align:right">3.5e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q11=&gt; 10 years</td>
+<td style="text-align:right">57.14</td>
+<td style="text-align:right">39.77</td>
+<td style="text-align:right">26.15</td>
+<td style="text-align:right">4.6e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q15=fun_Strongly agree</td>
+<td style="text-align:right">49.54</td>
+<td style="text-align:right">62.57</td>
+<td style="text-align:right">47.47</td>
+<td style="text-align:right">5.7e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q14=For both recreational and job/educational purposes.</td>
+<td style="text-align:right">52.50</td>
+<td style="text-align:right">49.12</td>
+<td style="text-align:right">35.16</td>
+<td style="text-align:right">1.7e-06</td>
+</tr>
+<tr>
+<td style="text-align:left">Q1_new=Q1_new_Academic/Govt</td>
+<td style="text-align:right">46.81</td>
+<td style="text-align:right">51.46</td>
+<td style="text-align:right">41.32</td>
+<td style="text-align:right">0.00071</td>
+</tr>
+<tr>
+<td style="text-align:left">Q8=Q8_Employed non-permanently in academia</td>
+<td style="text-align:right">57.63</td>
+<td style="text-align:right">19.88</td>
+<td style="text-align:right">12.97</td>
+<td style="text-align:right">0.00089</td>
+</tr>
+<tr>
+<td style="text-align:left">Q8=Q8_Employed permanently in academia</td>
+<td style="text-align:right">53.95</td>
+<td style="text-align:right">23.98</td>
+<td style="text-align:right">16.70</td>
+<td style="text-align:right">0.00157</td>
+</tr>
+</tbody>
+</table>
+<p>The table can be interpreted as follows:</p>
+<ul>
+<li>first row indicates that 96.77% of individuals that have released their own R package are in cluster 1; 87.72% of individuals in this cluster have released their own R package, and 34.07% of individuals in the population have released their own R package.</li>
+<li>row 7 indicates that 50.75% of individuals with a doctorate are in this cluster; 59.06% of individuals in this cluster have a doctorate, and 43.74% of individuals in the population have a doctorate. We can reject at risk 3.47e-07 the null hypothesis <em>the proportion of respondents with a doctorate in the first cluster is the same than the proportion in the population of the respondents</em>. This first table only represents the results when the proportion in the cluster is larger than the proportion in the population.</li>
+</ul>
+<p>To wrap-up, the tests results confirm that <strong>cluster 1 gathers experienced users</strong>. In this cluster, there is an over-representation of people with a doctorate, men, or people employed in academia. It is also a cluster where the proportion of people strongly seeing R programming as fun is large. In the same line, people in cluster 1 are more likely to use R for both recreational and job/educational purposes.</p>
+<p>This second table represents the categories that are underrepresented in cluster 1.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:right">Cla/Mod</th>
+<th style="text-align:right">Mod/Cla</th>
+<th style="text-align:right">Global</th>
+<th style="text-align:right">p.value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Q13_F=rel_pkg_no</td>
+<td style="text-align:right">7.00</td>
+<td style="text-align:right">12.28</td>
+<td style="text-align:right">65.93</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_D=ctb_pkg_no</td>
+<td style="text-align:right">6.71</td>
+<td style="text-align:right">11.11</td>
+<td style="text-align:right">62.20</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_E=wrt_pkg_no</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">47.69</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_C=wrt_func_no</td>
+<td style="text-align:right">6.06</td>
+<td style="text-align:right">2.34</td>
+<td style="text-align:right">14.51</td>
+<td style="text-align:right">3.5e-10</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_B=wrt_code_no</td>
+<td style="text-align:right">7.94</td>
+<td style="text-align:right">2.92</td>
+<td style="text-align:right">13.85</td>
+<td style="text-align:right">1.4e-08</td>
+</tr>
+<tr>
+<td style="text-align:left">Q11=6-12 months</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">6.37</td>
+<td style="text-align:right">6.6e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q2=Women</td>
+<td style="text-align:right">23.08</td>
+<td style="text-align:right">22.81</td>
+<td style="text-align:right">37.14</td>
+<td style="text-align:right">6.6e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q1_new=Q1_new_Industry</td>
+<td style="text-align:right">26.46</td>
+<td style="text-align:right">29.24</td>
+<td style="text-align:right">41.54</td>
+<td style="text-align:right">3.3e-05</td>
+</tr>
+<tr>
+<td style="text-align:left">Q8=Q8_Employed in industry</td>
+<td style="text-align:right">26.23</td>
+<td style="text-align:right">28.07</td>
+<td style="text-align:right">40.22</td>
+<td style="text-align:right">3.7e-05</td>
+</tr>
+<tr>
+<td style="text-align:left">Q14=Q14.NA</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">3.52</td>
+<td style="text-align:right">0.00045</td>
+</tr>
+<tr>
+<td style="text-align:left">Q11=1-2 years</td>
+<td style="text-align:right">11.43</td>
+<td style="text-align:right">2.34</td>
+<td style="text-align:right">7.69</td>
+<td style="text-align:right">0.00046</td>
+</tr>
+<tr>
+<td style="text-align:left">Q7=Masters degree</td>
+<td style="text-align:right">28.34</td>
+<td style="text-align:right">30.99</td>
+<td style="text-align:right">41.10</td>
+<td style="text-align:right">0.00065</td>
+</tr>
+<tr>
+<td style="text-align:left">Q14=Primarily as part of a job or educational course;</td>
+<td style="text-align:right">31.64</td>
+<td style="text-align:right">50.88</td>
+<td style="text-align:right">60.44</td>
+<td style="text-align:right">0.00131</td>
+</tr>
+<tr>
+<td style="text-align:left">Q11=Q11.NA</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">0.00</td>
+<td style="text-align:right">2.86</td>
+<td style="text-align:right">0.00196</td>
+</tr>
+<tr>
+<td style="text-align:left">Q5=United States</td>
+<td style="text-align:right">32.91</td>
+<td style="text-align:right">60.82</td>
+<td style="text-align:right">69.45</td>
+<td style="text-align:right">0.00217</td>
+</tr>
+</tbody>
+</table>
+<p>US people are under-represented in cluster 1.  We can imagine that only people deeply using R are motivated to go to the US for such a conference due to the costs.</p>
+<h3 id="cluster-2">Cluster 2</h3>
+<p>Cluster 2 can be described as a cluster of <strong>intermediate users</strong> who use R since 1-2 years or less, but more than 6 months. They use R functions, but don&rsquo;t write their own functions or packages. They appreciate R, but use it primarily for their job. They are more employed in the industry. This cluster gathers more women, more undergraduate and master and people from the US.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:right">Cla/Mod</th>
+<th style="text-align:right">Mod/Cla</th>
+<th style="text-align:right">Global</th>
+<th style="text-align:right">p.value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Q13_F=rel_pkg_no</td>
+<td style="text-align:right">85.33</td>
+<td style="text-align:right">98.46</td>
+<td style="text-align:right">65.93</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_D=ctb_pkg_no</td>
+<td style="text-align:right">85.51</td>
+<td style="text-align:right">93.08</td>
+<td style="text-align:right">62.20</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_E=wrt_pkg_no</td>
+<td style="text-align:right">89.86</td>
+<td style="text-align:right">75.00</td>
+<td style="text-align:right">47.69</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q11=6-12 months</td>
+<td style="text-align:right">100.00</td>
+<td style="text-align:right">11.15</td>
+<td style="text-align:right">6.37</td>
+<td style="text-align:right">4.4e-08</td>
+</tr>
+<tr>
+<td style="text-align:left">Q14=Primarily as part of a job or educational course;</td>
+<td style="text-align:right">66.91</td>
+<td style="text-align:right">70.77</td>
+<td style="text-align:right">60.44</td>
+<td style="text-align:right">2.2e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q2=Women</td>
+<td style="text-align:right">71.60</td>
+<td style="text-align:right">46.54</td>
+<td style="text-align:right">37.14</td>
+<td style="text-align:right">1.4e-06</td>
+</tr>
+<tr>
+<td style="text-align:left">Q11=1-2 years</td>
+<td style="text-align:right">88.57</td>
+<td style="text-align:right">11.92</td>
+<td style="text-align:right">7.69</td>
+<td style="text-align:right">4.0e-05</td>
+</tr>
+<tr>
+<td style="text-align:left">Q8=Q8_Employed in industry</td>
+<td style="text-align:right">67.76</td>
+<td style="text-align:right">47.69</td>
+<td style="text-align:right">40.22</td>
+<td style="text-align:right">0.00017</td>
+</tr>
+<tr>
+<td style="text-align:left">Q1_new=Q1_new_Industry</td>
+<td style="text-align:right">67.20</td>
+<td style="text-align:right">48.85</td>
+<td style="text-align:right">41.54</td>
+<td style="text-align:right">0.00026</td>
+</tr>
+<tr>
+<td style="text-align:left">Q15=fun_Agree</td>
+<td style="text-align:right">67.20</td>
+<td style="text-align:right">48.08</td>
+<td style="text-align:right">40.88</td>
+<td style="text-align:right">0.00031</td>
+</tr>
+<tr>
+<td style="text-align:left">Q7=Masters degree</td>
+<td style="text-align:right">66.31</td>
+<td style="text-align:right">47.69</td>
+<td style="text-align:right">41.10</td>
+<td style="text-align:right">0.00096</td>
+</tr>
+<tr>
+<td style="text-align:left">Q2Q3=20-28_Women</td>
+<td style="text-align:right">79.07</td>
+<td style="text-align:right">13.08</td>
+<td style="text-align:right">9.45</td>
+<td style="text-align:right">0.00185</td>
+</tr>
+<tr>
+<td style="text-align:left">Q16=rcmd_Yes</td>
+<td style="text-align:right">59.09</td>
+<td style="text-align:right">95.00</td>
+<td style="text-align:right">91.87</td>
+<td style="text-align:right">0.00558</td>
+</tr>
+<tr>
+<td style="text-align:left">Q2Q3=29-33_Women</td>
+<td style="text-align:right">75.56</td>
+<td style="text-align:right">13.08</td>
+<td style="text-align:right">9.89</td>
+<td style="text-align:right">0.00786</td>
+</tr>
+<tr>
+<td style="text-align:left">Q5=United States</td>
+<td style="text-align:right">61.08</td>
+<td style="text-align:right">74.23</td>
+<td style="text-align:right">69.45</td>
+<td style="text-align:right">0.01118</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13=use_func_yes</td>
+<td style="text-align:right">58.63</td>
+<td style="text-align:right">95.38</td>
+<td style="text-align:right">92.97</td>
+<td style="text-align:right">0.02258</td>
+</tr>
+<tr>
+<td style="text-align:left">Q7=Undergraduate degree</td>
+<td style="text-align:right">71.15</td>
+<td style="text-align:right">14.23</td>
+<td style="text-align:right">11.43</td>
+<td style="text-align:right">0.02953</td>
+</tr>
+<tr>
+<td style="text-align:left">Q15_D=difficult_Disagree</td>
+<td style="text-align:right">62.56</td>
+<td style="text-align:right">50.77</td>
+<td style="text-align:right">46.37</td>
+<td style="text-align:right">0.03045</td>
+</tr>
+<tr>
+<td style="text-align:left">Q2Q3=&gt;58_Men</td>
+<td style="text-align:right">80.00</td>
+<td style="text-align:right">6.15</td>
+<td style="text-align:right">4.40</td>
+<td style="text-align:right">0.03401</td>
+</tr>
+<tr>
+<td style="text-align:left">Q10=Caryng_resp_No</td>
+<td style="text-align:right">60.18</td>
+<td style="text-align:right">76.15</td>
+<td style="text-align:right">72.31</td>
+<td style="text-align:right">0.03569</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cluster-3">Cluster 3</h3>
+<p>Cluster 3 gathers respondents with less than 6 months of experience in R. They do not have an opinion about the &ldquo;fun&rdquo; or &ldquo;monotonous&rdquo; nature of R. They use R in their free time and find that the main advantage of R is that it is an open source software. This cluster gather <strong>curious users</strong> discovering R in their free time. No demographic characteristics show-up in this group.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:right">Cla/Mod</th>
+<th style="text-align:right">Mod/Cla</th>
+<th style="text-align:right">Global</th>
+<th style="text-align:right">p.value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Q11=&lt; 6 months</td>
+<td style="text-align:right">100.00</td>
+<td style="text-align:right">81.82</td>
+<td style="text-align:right">1.98</td>
+<td style="text-align:right">&lt; 2e-16</td>
+</tr>
+<tr>
+<td style="text-align:left">Q14=Primarily as a recreational activity, in your free time;</td>
+<td style="text-align:right">100.00</td>
+<td style="text-align:right">36.36</td>
+<td style="text-align:right">0.88</td>
+<td style="text-align:right">1.9e-07</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_C=wrt_func_no</td>
+<td style="text-align:right">12.12</td>
+<td style="text-align:right">72.73</td>
+<td style="text-align:right">14.51</td>
+<td style="text-align:right">1.6e-05</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_B=wrt_code_no</td>
+<td style="text-align:right">11.11</td>
+<td style="text-align:right">63.64</td>
+<td style="text-align:right">13.85</td>
+<td style="text-align:right">0.00016</td>
+</tr>
+<tr>
+<td style="text-align:left">Q15=fun_No opinion</td>
+<td style="text-align:right">13.33</td>
+<td style="text-align:right">36.36</td>
+<td style="text-align:right">6.59</td>
+<td style="text-align:right">0.00400</td>
+</tr>
+<tr>
+<td style="text-align:left">Q16=rcmd_No</td>
+<td style="text-align:right">14.29</td>
+<td style="text-align:right">27.27</td>
+<td style="text-align:right">4.62</td>
+<td style="text-align:right">0.01195</td>
+</tr>
+<tr>
+<td style="text-align:left">Q15_C=monotonous_No opinion</td>
+<td style="text-align:right">7.46</td>
+<td style="text-align:right">45.45</td>
+<td style="text-align:right">14.73</td>
+<td style="text-align:right">0.01564</td>
+</tr>
+<tr>
+<td style="text-align:left">Q4=Native American</td>
+<td style="text-align:right">100.00</td>
+<td style="text-align:right">9.09</td>
+<td style="text-align:right">0.22</td>
+<td style="text-align:right">0.02418</td>
+</tr>
+<tr>
+<td style="text-align:left">Q17_new=Open source</td>
+<td style="text-align:right">11.11</td>
+<td style="text-align:right">27.27</td>
+<td style="text-align:right">5.93</td>
+<td style="text-align:right">0.02484</td>
+</tr>
+<tr>
+<td style="text-align:left">Q13_E=wrt_pkg_no</td>
+<td style="text-align:right">4.15</td>
+<td style="text-align:right">81.82</td>
+<td style="text-align:right">47.69</td>
+<td style="text-align:right">0.02518</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cluster-4">Cluster 4</h3>
+<p>As expected, cluster 4 not described in detail here is a cluster where individuals do not answer questions, or do not check boxes.</p>
+<h3 id="to-sum-up">To sum-up</h3>
+<p>The respondents can be classified in 3 clusters according to their uses of R:</p>
+<ul>
+<li>The experienced users (38%): they have an in depth knowledge of R programming, even creating their own package. They are mainly  men, academic, with a doctorate</li>
+<li>The intermediate users (57%): they mainly use functions from existing packages, but do not write their own functions. They are mainly women, people from industry, who are undergraduate or have a master degree. In addition, they are more likely from US.</li>
+<li>The curious users (3%): they have discovered R very recently. They don&rsquo;t have an opinion that is already formed. They appreciate the open source nature of R.</li>
+</ul>
+<p>A fourth cluster of people that didn&rsquo;t answer the question could be considered. It represents 2% of individuals. They could be potential future users that didn&rsquo;t have any experience in R at the moment to complete the questionnaire.</p>
+<h2 id="conclusions">Conclusions</h2>
+<p>Missing values often occur on all the R programming questions. One possible explanation backed-up by the free text answer of one individual and by the proximity to the inexperienced users, is that the values are missing because the participants do not program in R. If so, the deletion of missing individuals for subsequent analyses would reduce the scope of the analysis since the sample would be restricted to R users only. However, the cluster of individuals who do not answer these questions, do not answer any of the R community questions as well. Consequently, it can also be individuals who have started answering the questions and stopped before finishing. So we decide to delete this group for the other analyses.</p>
+<!-- More precisely, we face to a missing not at random mechanism since we cannot explain missing values from collected variables. It would have been interesting to include a question to know if the participant has previously done R programming or not, making easier handling missing values. -->
+<p>Practices of R are linked to the experience of the users. In particular, users with more than 10 years' experience have already written their own package, while people with less than 2 years' experience haven&rsquo;t.</p>
+<p>A focus on the demographic characteristics of the participants highlights experienced users are more likely men than women, more likely from academia than from industry and more likely people with a doctorate than without. They often use R both for their job and for pleasure.
+Intermediate users use R for less than 2 years, they mainly use existing packages. Intermediate users are mainly women, people with undergraduate and master degrees and less men or people with doctoral degrees.
+Beginners are trying R during their free time.</p>
+<p>To conclude, we should suggest using &ldquo;yes&rdquo; and &ldquo;no&rdquo; answers for the checkboxes to distinguish missing values from &ldquo;no&rdquo;. In addition, we should be cautious about over-interpretation and keep in mind that their is a strong age effect: there are many women who are young.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>For more details about the use of analysis of variance to interpret the MCA graphs, see: Francois Husson, Jerome Pages, Sebastien Le. Exploratory Multivariate Analysis by Example Using R. CRC Press Taylor &amp; Francis, pp.240, 2010, Chapman &amp; Hall/CRC Computer Science &amp; Data Analysis. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>For more details about the classification based on principal components methods, see the reference above. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+            </div>
+        </div>
+    </article>
+    <div id="toTop" class="fa fa-angle-up"></div>
+</section>
+
+	</div>
+</div>
+
+<footer id="footer">
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      <p> Provide input on this web site, or to the taskforce by <a href="mailto:rowforwards@gmail.com?Subject=Hello%20again" target="_top">email.</a> </p>
+      <p>
+        
+        &copy; 2021
+      Forwards. Powered by <a href="https://github.com/rstudio/blogdown">blogdown</a>/<a href="//gohugo.io">Hugo</a>. Theme based on Icarus by <a href="https://github.com/ppoffice">PPOffice</a>.
+        
+      </p>
+      
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a><br />Unless otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>.
+      <p>The Forwards logo is a derivative of the <a href = "https://www.r-project.org/logo/Rlogo.svg">R logo</a>, <a href = "https://www.r-project.org/logo/">©2016 The R Foundation</a>, used 
+under <a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. </p><p>The 
+Forwards logo is licensed under 
+<a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, ©2016 Forwards.</p>
+      
+    </div>
+  </div>
+</footer>
+
+
+<script src="https://forwards.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script src="https://forwards.github.io/js/script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+
+<script src="https://forwards.github.io/js/jqueryui-1.11.4/jquery-ui.min.js"></script>
+
+<script src="https://forwards.github.io/js/tocify-1.9.1/jquery.tocify.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+
+</body>
+</html>

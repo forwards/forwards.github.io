@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demographics on FORWARDS</title>
+    <link>https://forwards.github.io/tags/demographics/</link>
+    <description>Recent content in demographics on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/tags/demographics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping useRs</title>
+      <link>https://forwards.github.io/blog/2017/01/13/mapping-users/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/01/13/mapping-users/</guid>
+      <description>Every year, hundreds of R programmers descend on a host city and spend three or four days sharing work, collaborating on projects and making new contacts - the useR! conference, this year held in Stanford, CA. useR! offers a wonderful opportunity to map a subset of the language&amp;rsquo;s most active users and the Women in R Task Force took this opportunity to survey attendees and find out their backgrounds, experiences and interests, in the hope that it will help us to get a better understanding of how to make the R community a more inclusive environment.</description>
+    </item>
+    
+  </channel>
+</rss>

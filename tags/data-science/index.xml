@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science on FORWARDS</title>
+    <link>https://forwards.github.io/tags/data-science/</link>
+    <description>Recent content in data science on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2017 19:26:36 +0000</lastBuildDate><atom:link href="https://forwards.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emily Robinson, from Social Scientist to Data Scientist</title>
+      <link>https://forwards.github.io/blog/2017/02/07/emily-robinson-from-social-scientist-to-data-scientist/</link>
+      <pubDate>Tue, 07 Feb 2017 19:26:36 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/02/07/emily-robinson-from-social-scientist-to-data-scientist/</guid>
+      <description>&lt;p&gt;Maëlle Salmon, a Forwards collaborator, got the chance to interview Emily Robinson, who recently became a data analyst at Etsy. A very inspiring R-Lady!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,364 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    
+    <meta name="generator" content="Hugo 0.79.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    
+    <meta property="og:type" content="article" >
+    <meta property="og:url" content="https://forwards.github.io/edu/chicago/" >
+    
+      
+        
+       <title>R-Ladies Chicago Package Development Workshop - FORWARDS</title>
+       <meta property="og:title" content="R-Ladies Chicago Package Development Workshop">
+       
+      
+        <meta name="twitter:card" content="summary">
+        <meta property="og:image" content="https://forwards.github.io/apple-touch-icon.png" >
+        <meta property="og:image:alt" content="Forwards logo" >
+      
+      
+    
+    <meta property="author" content="R Foundation taskforce on women and other under-represented groups" />
+    
+      <meta property="description" content="R Foundation taskforce on women and other under-represented groups.">
+      <meta property="og:description" content="R Foundation taskforce on women and other under-represented groups.">
+    
+    
+    
+    <link rel="canonical" href="https://forwards.github.io/edu/chicago/"/>
+    <link rel="icon" href="https://forwards.github.io/favicon.ico">
+    <link rel="apple-touch-icon" href="https://forwards.github.io/apple-touch-icon.png"/>
+    <link rel="stylesheet" href="https://forwards.github.io/css/style.css">
+    <link rel="stylesheet" href="https://forwards.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://forwards.github.io/css/monokai.css">
+    
+    
+    <link rel="stylesheet" href="https://forwards.github.io/css/custom.css">
+    
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    
+    
+    <meta itemprop="name" content="R-Ladies Chicago Package Development Workshop">
+<meta itemprop="description" content="Women&rsquo;s Package Development Workshop by R-Ladies Chicago and Forwards Date: Saturday, February 23, 2019, 9:30am-4pm Workshop Materials Materials for this workshop, including slides and sample code, can be found at this Github repository.
+Location Center for Spatial Data Science
+5735 S Ellis Ave, 2nd Floor
+Chicago, Illinois 60637
+ Applications Applications are available at this Google Form. We encourage you to apply, especially if you&rsquo;ve never developed a package before. We&rsquo;ll walk you through the basics, and you&rsquo;ll leave having put together your first R package.">
+
+<meta itemprop="wordCount" content="384">
+
+
+
+<meta itemprop="keywords" content="" />
+
+    
+
+    
+
+    
+    
+    <link rel="stylesheet" href="https://forwards.github.io/css/bulma-navbar.css"> 
+    <script async type="text/javascript" src="https://forwards.github.io/js/bulma.js"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
+<script>
+$(document).ready(function ()  {
+
+    
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.article-entry',
+      hashGenerator: function (text) {
+        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 70
+    };
+    options.showAndHide = true;
+    options.showAndHideOnScroll = true;
+    options.smoothScroll = true;
+
+    
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+</head>
+<body>
+<div class="container">
+
+
+<div id="container">
+	<div class = "nav-background"></div>
+      
+      <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+        
+        
+      <div class="navbar-brand">
+        
+      
+        <a class="navbar-item" href="https://forwards.github.io/" id="logo">
+          
+          <span class="site-title">FORWARDS</span>
+        </a>
+
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      
+      <div id="navbarBasicExample" class="navbar-menu">
+      
+    <div class="navbar-start">
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/about/">About</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/blog/">Blog</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/community/">Community</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/conferences/">Conferences</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/edu/">Education</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/contribution/">Contribution</a>
+          
+      
+          
+          <a class="navbar-item" href="https://forwards.github.io/data/">Data</a>
+          
+      
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Other
+        </a>
+
+        <div class="navbar-dropdown">
+          
+            
+            <a class="navbar-item" href="https://forwards.github.io/docs/">Reports</a>
+            
+          
+            
+            <a class="navbar-item" href="https://forwards.github.io/privacy_policy/">Privacy Policy</a>
+            
+          
+        </div>
+      </div>
+    </div>
+
+   
+    <div class="navbar-end">
+    </div>
+  </div>
+</nav>
+
+   	<div class="outer">
+   	    <aside id="profile">
+  <div class="inner profile-inner">
+    <div class="base-info profile-block">
+      
+      <img id="avatar" src="https://forwards.github.io/images/forwards.svg">
+      
+      
+      <span id="name">R Foundation taskforce on women and other under-represented groups</span>
+      
+      
+      
+      
+    </div>
+
+    <div class="profile-block social-links">
+      <table>
+        <tr>
+          
+<td><a href="//github.com/forwards" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td><a href="//twitter.com/R_Forwards" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
+
+
+          <td><a href="https://forwards.github.io/index.xml" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
+        </tr>
+      </table>
+    </div>
+    
+    
+    
+  </div>
+</aside>
+
+	    
+<section id="main" class="no-sidebar">
+    <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            <div class="article-entry" itemprop="articleBody">
+                <h2 id="womens-package-development-workshop-by-r-ladies-chicagohttpsrladieschicagoorg-and-forwardshttpsforwardsgithubio">Women&rsquo;s Package Development Workshop by <a href="https://rladieschicago.org">R-Ladies Chicago</a> and <a href="https://forwards.github.io">Forwards</a></h2>
+<h3 id="date-saturday-february-23-2019-930am-4pm">Date: Saturday, February 23, 2019, 9:30am-4pm</h3>
+<h3 id="workshop-materials">Workshop Materials</h3>
+<p><strong>Materials for this workshop, including slides and sample code, can be found at <a href="https://github.com/forwards/workshops/tree/master/Chicago2019">this Github repository</a>.</strong></p>
+<h3 id="location">Location</h3>
+<p>Center for Spatial Data Science<br>
+5735 S Ellis Ave, 2nd Floor<br>
+Chicago, Illinois 60637</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.7548639089937!2d-87.60317058411151!3d41.79049637886998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e293e7bd41241%3A0x5966b3036fc25171!2sSearle+Chemical+Laboratory%2C+5735+S+Ellis+Ave%2C+Chicago%2C+IL+60637!5e0!3m2!1sen!2sus!4v1544044603496" title="Google map of location" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<h3 id="applications">Applications</h3>
+<p>Applications are available at <a href="https://docs.google.com/forms/d/1lcmkrKNjLAIGlm0Eeyc3nDGv7FsY6upJYSYWVawX28I">this Google Form</a>. We encourage you to apply, especially if you&rsquo;ve never developed a package before. We&rsquo;ll walk you through the basics, and you&rsquo;ll leave having put together your first R package. Applications for out-of-town attendees will close on <strong>January 15, 2019</strong>, while applications for attendees based in Chicago will close on <strong>February 2, 2019</strong>.</p>
+<p><a href="https://docs.google.com/forms/d/1lcmkrKNjLAIGlm0Eeyc3nDGv7FsY6upJYSYWVawX28I"><strong>Apply now!</strong></a></p>
+<h3 id="workshop-description">Workshop Description</h3>
+<p>Curious about package development, but not sure where to start? This workshop is for you! Run by R-Ladies Chicago, the goal of this workshop is to empower you to start contributing back to the R ecosystem with package development. We&rsquo;ll be using materials developed by Hadley Wickham, Jenny Bryan, and Di Cook for the <a href="https://forwards.github.io/edu/">Forwards teaching team</a>.</p>
+<p>By the end of this day-long workshop, you should know how to:</p>
+<ul>
+<li>make your code into an R package,</li>
+<li>do collaborative coding with GitHub,</li>
+<li>write a vignette or an article,</li>
+<li>build a web page for your package, and</li>
+<li>submit a package to CRAN.</li>
+</ul>
+<p>Bring your own code that you want to make into a package, or work with our example.</p>
+<h3 id="cost-accommodations-and-travel-support">Cost, Accommodations, and Travel Support</h3>
+<p>Thanks to funding from the <a href="https://www.r-consortium.org/" target="_blank">R Consortium</a>, this workshop is free for participants.  Breakfast and lunch will be provided.</p>
+<p>We may be able to provided limited travel grants to out-of-town attendees, so please indicate on the application if you need support. Additionally, please let us know on the application if you will need childcare.</p>
+<h3 id="lead-instructors">Lead Instructors</h3>
+<p>Stephanie Kirmer and Angela Li of R-Ladies Chicago co-taught the workshop. <a href="https://skirmer.github.io/">Stephanie</a> is a Senior Data Scientist at <a href="https://www.uptake.com/">Uptake</a> and <a href="https://angela-li.github.io/">Angela</a> is the R Spatial Advocate at the <a href="https://spatial.uchicago.edu">Center for Spatial Data Science</a>.</p>
+<p>Our helpers were <a href="https://katherinesimeon.github.io/">Katherine Simeon</a>, <a href="http://amazingspecialist.coolcatscoding.com/">Ola Giwa</a>, and <a href="https://nicoleburke.github.io/">Nicole Burke</a> from R-Ladies Chicago - thank you for your time!</p>
+<h3 id="code-of-conduct">Code of Conduct</h3>
+<p>Workshop instructors and participants agree to adhere to the <a href="https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct" target="_blank">R Consortium and R Community Code of Conduct</a>.</p>
+<h3 id="questions">Questions</h3>
+<p>Please email angela [at] rladies.org with any questions, and see <a href="http://forwards.github.io/edu/" target="_blank">the main Education page</a> for more information about Forwards teaching initiatives.</p>
+
+            </div>
+        </div>
+    </article>
+    <div id="toTop" class="fa fa-angle-up"></div>
+</section>
+
+	</div>
+</div>
+
+<footer id="footer">
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      <p> Provide input on this web site, or to the taskforce by <a href="mailto:rowforwards@gmail.com?Subject=Hello%20again" target="_top">email.</a> </p>
+      <p>
+        
+        &copy; 2021
+      Forwards. Powered by <a href="https://github.com/rstudio/blogdown">blogdown</a>/<a href="//gohugo.io">Hugo</a>. Theme based on Icarus by <a href="https://github.com/ppoffice">PPOffice</a>.
+        
+      </p>
+      
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a><br />Unless otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>.
+      <p>The Forwards logo is a derivative of the <a href = "https://www.r-project.org/logo/Rlogo.svg">R logo</a>, <a href = "https://www.r-project.org/logo/">©2016 The R Foundation</a>, used 
+under <a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. </p><p>The 
+Forwards logo is licensed under 
+<a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, ©2016 Forwards.</p>
+      
+    </div>
+  </div>
+</footer>
+
+
+<script src="https://forwards.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script src="https://forwards.github.io/js/script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+
+<script src="https://forwards.github.io/js/jqueryui-1.11.4/jquery-ui.min.js"></script>
+
+<script src="https://forwards.github.io/js/tocify-1.9.1/jquery.tocify.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+
+</body>
+</html>

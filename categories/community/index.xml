@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on FORWARDS</title>
+    <link>https://forwards.github.io/categories/community/</link>
+    <description>Recent content in community on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#BlackLivesMatter: A joint statement by Forwards and R-Ladies</title>
+      <link>https://forwards.github.io/blog/2020/06/06/blacklivesmatter-a-joint-statement-by-forwards-and-r-ladies/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2020/06/06/blacklivesmatter-a-joint-statement-by-forwards-and-r-ladies/</guid>
+      <description>As organizations committed to broadening diversity and inclusion in our community, we stand with #BlackLivesMatter and join those who demand justice for systemic oppression. Pervasive racism negatively impacts the participation of Black people in society. The current events in the USA echo what has happened and continues to happen to minoritised people across the world. We are aggregating resources and are taking deliberate actions to amplify the voices of Black, Indigenous and People of Color in the R community now and moving forward.</description>
+    </item>
+    
+    <item>
+      <title>Southern Africa Project 2020</title>
+      <link>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</guid>
+      <description>Using the satRday Johannesburg 2020 conference as a springboard, Forwards set up a project to help build the R community in Southern Africa. With funding from the Why R? Foundation, the R Consortium and a crowd-funding campaign, Forwards collaborated with local R users to run a series of training and community events in South Africa, Eswatini and Botswana. All the events promoted AfricaR, the pan-African network of R users, to help raise awareness of this community among R users in Southern Africa.</description>
+    </item>
+    
+  </channel>
+</rss>

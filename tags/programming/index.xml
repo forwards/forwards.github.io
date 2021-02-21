@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on FORWARDS</title>
+    <link>https://forwards.github.io/tags/programming/</link>
+    <description>Recent content in programming on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://forwards.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Southern Africa Project 2020</title>
+      <link>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/</guid>
+      <description>Using the satRday Johannesburg 2020 conference as a springboard, Forwards set up a project to help build the R community in Southern Africa. With funding from the Why R? Foundation, the R Consortium and a crowd-funding campaign, Forwards collaborated with local R users to run a series of training and community events in South Africa, Eswatini and Botswana. All the events promoted AfricaR, the pan-African network of R users, to help raise awareness of this community among R users in Southern Africa.</description>
+    </item>
+    
+    <item>
+      <title>useRs Relationship with R</title>
+      <link>https://forwards.github.io/blog/2017/03/11/users-relationship-with-r/</link>
+      <pubDate>Sat, 11 Mar 2017 16:37:43 +0000</pubDate>
+      
+      <guid>https://forwards.github.io/blog/2017/03/11/users-relationship-with-r/</guid>
+      <description>In our first post on the useR! 2016 survey we discussed the responses from the demographic section, finding in particular that:
+ The useR! 2016 attendees were predominately men, typically under 40, White/Caucasian and employed full-time. Women attendees tended to be younger and less advanced in their careers. Non-Asian minority races and LGBT individuals were under-represented. Approximately a quarter of attendees were caregivers.  We now turn to look at useRs relationship with R: what experience do they have in using R and what do they think of R?</description>
+    </item>
+    
+  </channel>
+</rss>
