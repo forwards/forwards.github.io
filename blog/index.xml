@@ -9,8 +9,8 @@
 <link>https://forwards.github.io/blog/index.html</link>
 <atom:link href="https://forwards.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>R Foundation taskforce on women and other under-represented groups.</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Sat, 06 Jun 2020 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.433</generator>
+<lastBuildDate>Fri, 05 Jun 2020 23:00:00 GMT</lastBuildDate>
 <item>
   <title>#BlackLivesMatter: A joint statement by Forwards and R-Ladies</title>
   <link>https://forwards.github.io/blog/2020/blacklivesmatter-statement/index.html</link>
@@ -61,7 +61,7 @@
   <category>community</category>
   <category>news</category>
   <guid>https://forwards.github.io/blog/2020/blacklivesmatter-statement/index.html</guid>
-  <pubDate>Sat, 06 Jun 2020 00:00:00 GMT</pubDate>
+  <pubDate>Fri, 05 Jun 2020 23:00:00 GMT</pubDate>
   <media:content url="https://forwards.github.io/blog/2020/blacklivesmatter-statement/blm.png" medium="image" type="image/png" height="54" width="144"/>
 </item>
 <item>
@@ -127,7 +127,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>education</category>
   <category>software</category>
   <guid>https://forwards.github.io/blog/2020/southern-africa-project-2020/index.html</guid>
-  <pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
+  <pubDate>Sun, 24 May 2020 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Recap of R-Ladies Charlottesville Forwards Workshop</title>
@@ -284,7 +284,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>software</category>
   <category>community</category>
   <guid>https://forwards.github.io/blog/2019/workshops-for-women-and-girls/index.html</guid>
-  <pubDate>Sun, 22 Sep 2019 00:00:00 GMT</pubDate>
+  <pubDate>Sat, 21 Sep 2019 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>HavanaR Workshop 2018</title>
@@ -317,7 +317,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>community</category>
   <category>education</category>
   <guid>https://forwards.github.io/blog/2018/havanar/index.html</guid>
-  <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
+  <pubDate>Fri, 06 Jul 2018 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>R in Latin America</title>
@@ -716,7 +716,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>survey</category>
   <category>community</category>
   <guid>https://forwards.github.io/blog/2017/users-participation-in-the-r-community/index.html</guid>
-  <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
+  <pubDate>Sun, 18 Jun 2017 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>useRs Relationship with R</title>
