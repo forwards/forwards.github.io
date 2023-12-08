@@ -11,7 +11,6 @@ execute:
 website:
   title: "Forwards"
   site-url: https://forwards.github.io/
-  description: "R Foundation taskforce on women and other under-represented groups."
   favicon: /images/favicon.ico
   twitter-card:
     site: "@R_Forwards"
@@ -76,3 +75,7 @@ format:
     toc: true  
     email-obfuscation: references
     include-in-header: analytics.html
+    title-prefix: ""
+    image: /images/forwards.svg
+    image-alt: "Forwards logo"
+    description: "R Foundation taskforce on women and other under-represented groups."
