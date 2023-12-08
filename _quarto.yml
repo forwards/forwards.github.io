@@ -2,6 +2,8 @@
 # https://community.rstudio.com/t/quarto-equivalent-to-exclude-yaml-command-in-distill/148758/2
 project:
   type: website
+  resources: 
+    - "favicon*"
   render:
     - "*.qmd"
   
