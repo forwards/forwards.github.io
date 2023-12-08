@@ -11,11 +11,10 @@ execute:
 website:
   title: "Forwards"
   site-url: https://forwards.github.io/
-  favicon: /images/favicon.ico
-  image: /images/forwards_social.png
   twitter-card:
     site: "@R_Forwards"
-  open-graph: true
+  open-graph:
+    image: /images/forwards_social.png
   
   page-navigation: true
   reader-mode: true
