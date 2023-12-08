@@ -11,6 +11,7 @@ execute:
 website:
   title: "Forwards"
   site-url: https://forwards.github.io/
+  favicon: /images/favicon.ico
   twitter-card:
     site: "@R_Forwards"
   open-graph:
