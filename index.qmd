@@ -6,7 +6,7 @@ title: "Forwards"
 
 Leading the R community forwards in widening the participation of women and other under-represented groups.
 
-Find out more [about]() the task force.
+Find out more [about](about.html) the task force.
 
 <!-- responsive two column layout 
 - one column switching to two columns on large screens and above  -->
