@@ -12,6 +12,7 @@ website:
   title: "Forwards"
   site-url: https://forwards.github.io/
   favicon: /images/favicon.ico
+  image: /images/forwards_social.png
   twitter-card:
     site: "@R_Forwards"
   open-graph: true
@@ -76,6 +77,4 @@ format:
     email-obfuscation: references
     include-in-header: analytics.html
     title-prefix: ""
-    image: /images/forwards.svg
-    image-alt: "Forwards logo"
     description: "R Foundation taskforce on women and other under-represented groups."
