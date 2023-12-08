@@ -3,6 +3,9 @@
 # Enable banner style title blocks
 title-block-banner: true
 
+# Remove default image for social media cards set in site settings
+open-graph: true
+
 toc: true    
 toc-depth: 3
 toc-title: Contents
