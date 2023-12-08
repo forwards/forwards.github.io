@@ -5,6 +5,8 @@ title-block-banner: true
 
 # Remove default image for social media cards set in site settings
 open-graph: true
+twitter-card:
+  site: "@R_Forwards"
 
 toc: true    
 toc-depth: 3

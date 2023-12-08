@@ -14,6 +14,7 @@ website:
   favicon: images/favicon.ico
   twitter-card:
     site: "@R_Forwards"
+    image: /images/forwards_social.png
   open-graph:
     image: /images/forwards_social.png
   
