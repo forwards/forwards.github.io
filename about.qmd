@@ -46,7 +46,7 @@ Kevin O’Brien - ‘Community’ team leader. Kevin is a data scientist working
 
 
 
-[Ella Kaye](https://ellakaye.rbind.io) - **'Community' team leader**. Ella is a statistician and R enthusiast. She's a founding member of RainbowR and a previous co-organiser of the Oxford R User Group. ([LinkedIn](https://www.linkedin.com/in/ella-kaye-9b878248/)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
+[Ella Kaye](https://ellakaye.rbind.io) - 'Community' team leader. Ella is a statistician and R enthusiast. She's a founding member of RainbowR and a previous co-organiser of the Oxford R User Group. ([LinkedIn](https://www.linkedin.com/in/ella-kaye-9b878248/)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
 
 
 [Yanina Bellini Saibene](https://yabellini.netlify.app/) - ‘Conferences’ team leader. Yanina is a professor at national universities in Argentina and Uruguay and a researcher who applies data science to the agricultural sector. She is co-founder of MetaDocencia, part of the R-Ladies Global Team, co-founder and chair of LatinR, chair of useR! 2021, chair of the 49 & 50 JAIIO, and chair of the AgroInformatics Congress. ([LinkedIn](https://www.linkedin.com/in/yabellini)/[Twitter](https://twitter.com/yabellini)/[GitHub](https://github.com/yabellini))
@@ -65,7 +65,7 @@ Saranjeet Kaur Bhogal - ‘On-ramps’ team leader. Saranjeet volunteers for the
 
 
 
-[Emma Rand](https://www.york.ac.uk/biology/our-staff/emma-rand/) - **'Teaching' team leader**. Emma is a Senior Lecturer (Associate Professor) at the University of York, UK and teaches reproducible data analysis to bioscientists in her institution and with the Royal Society of Biology and the Biochemical Society. ([LinkedIn](https://www.linkedin.com/in/emma-rand-6b0a61a/)/[Twitter](https://twitter.com/er13_r)/[GitHub](https://github.com/3mmaRand))
+[Emma Rand](https://www.york.ac.uk/biology/our-staff/emma-rand/) - 'Teaching' team leader. Emma is a Senior Lecturer (Associate Professor) at the University of York, UK and teaches reproducible data analysis to bioscientists in her institution and with the Royal Society of Biology and the Biochemical Society. ([LinkedIn](https://www.linkedin.com/in/emma-rand-6b0a61a/)/[Twitter](https://twitter.com/er13_r)/[GitHub](https://github.com/3mmaRand))
 
 
 
@@ -117,7 +117,7 @@ Emily Dodwell - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.com
 [Isabella Gollini](https://sites.google.com/site/isabellagollini/) - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.com/in/isabellagollini/)/[Twitter](https://twitter.com/IsabellaGollini)/[GitHub](https://github.com/igollini))
 
 
-[Mine Çetinkaya-Rundel](http://mine-cr.com/) - **'Teaching' team member**. Mine is a Professor at Duke University and Data Scientist & Professional Educator at Posit. ([LinkedIn](https://www.linkedin.com/in/minec/)/[Twitter](https://twitter.com/minebocek)/[GitHub](https://github.com/mine-cetinkaya-rundel))
+[Mine Çetinkaya-Rundel](http://mine-cr.com/) - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.com/in/minec/)/[Twitter](https://twitter.com/minebocek)/[GitHub](https://github.com/mine-cetinkaya-rundel))
 
 
 Ritwik Mitra - **'Teaching' team member**. ([LinkedIn](www.linkedin.com/in/riikmitra)/[Twitter](https://twitter.com/riikmitra)/[GitHub](https://github.com/kiwtir))
@@ -139,19 +139,33 @@ Maria Prokofieva - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.
 ## Previous Members
 
 Becca Wilson
+
 Anna Vasylytsya 
+
 Nujcharee Haswell
+
 Pavitra Chakravarty 
+
 Maya Gans
+
 Miljenka Vuko 
+
 Imke Mayer
+
 Florencia Mangini 
+
 Joslynn Lee
+
 Damiano Cerasuolo
+
 Tania Allard
+
 Tatjana Kecojevic
+
 Richard Ngamita
+
 Lorna Maria Aine  
+
 Stella Bollman  
 Jenny Bryan  
 Nic Crane  
