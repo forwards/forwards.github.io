@@ -23,7 +23,7 @@ website:
   page-navigation: true
   reader-mode: true
   page-footer: |
-      © 2023 Forwards, under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.<br>
+      © 2024 Forwards, under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.<br>
       
   navbar:
     logo:  /images/forwards.svg
