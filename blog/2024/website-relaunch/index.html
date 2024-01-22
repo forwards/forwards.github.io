@@ -9,7 +9,7 @@
 <meta name="author" content="Heather Turner">
 <meta name="author" content="Ella Kaye">
 <meta name="author" content="Zane Dax">
-<meta name="dcterms.date" content="2023-12-07">
+<meta name="dcterms.date" content="2024-01-22">
 <meta name="description" content="Announcement about the relaunch of the Forwards website.">
 
 <title>Forwards - Website Relaunch</title>
@@ -109,6 +109,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link rel="stylesheet" href="../../../styles.css">
 <meta property="og:title" content="Forwards - Website Relaunch">
 <meta property="og:description" content="Announcement about the relaunch of the Forwards website.">
+<meta property="og:image" content="https://forwards.github.io//images/forwards.svg">
 <meta property="og:site-name" content="Forwards">
 <meta name="twitter:title" content="Forwards - Website Relaunch">
 <meta name="twitter:description" content="Announcement about the relaunch of the Forwards website.">
@@ -262,7 +263,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">December 7, 2023</p>
+        <p class="date">January 22, 2024</p>
       </div>
     </div>
     
@@ -283,7 +284,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <p>It’s been long time since we updated the Forwards website. At some point our continuous integration workflow stopped working and we didn’t have time to fix it. Moreover, we wanted to take the opportunity to update to newer tools and processes, to make the website easy maintain. This was a bigger task, but we’re happy to say that we’ve now updated from blogdown plus a convoluted Travis CI workflow, to Quarto plus a GitHub actions workflow.</p>
-<p>We have simplified the organization of posts, so that they are group by year rather than the full date of publication, which caused editing headaches when collaborating on a blog post over several days or weeks. This has changed the URL of blog posts, but rest assured we have added aliases so old links should still work.</p>
+<p>We have simplified the organization of posts, so that they are grouped by year rather than the full date of publication, which caused editing headaches when collaborating on a blog post over several days or weeks. This has changed the URL of blog posts, but rest assured we have added aliases so old links should still work.</p>
 <p>Despite the lack of blog posts, the Forwards taskforce has remained active! We’ve updated the news section on our homepage, which captures some of the main activities in the past few years. For a fuller account of the missing years you can check out the news column of the R Journal</p>
 <ul>
 <li><a href="https://journal.r-project.org/news/RJ-2020-2-forwards-news/">2020 vol 2</a></li>
@@ -292,8 +293,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><a href="https://journal.r-project.org/news/RJ-2022-2-forwards/">2022 vol 2</a></li>
 <li><a href="https://journal.r-project.org/news/RJ-2022-4-forwards/">2022 vol 4</a></li>
 </ul>
-<p>We plan to round up news from 2023 in volume 4 of the R Journal.</p>
-<p>Beyond that we hope to post here more regular in the coming months!</p>
+<p>A round up of news from 2023 should appear in 2023 volume 4 of the R Journal.</p>
+<p>Beyond that we hope to post here more regularly in the coming months!</p>
 
 
 <!-- -->
@@ -701,14 +702,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> Website Relaunch</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">author:</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: Heather Turner</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: Ella Kaye</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: Zane Dax</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> "2023-12-07"</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="an">categories:</span><span class="co"> [news]</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="an">description:</span><span class="co"> 'Announcement about the relaunch of the Forwards website.'</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="an">draft:</span><span class="co"> true</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">image:</span><span class="co"> "/images/forwards.svg"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">author:</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: Heather Turner</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: Ella Kaye</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: Zane Dax</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> "2024-01-22"</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="an">categories:</span><span class="co"> [news]</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="an">description:</span><span class="co"> 'Announcement about the relaunch of the Forwards website.'</span></span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>It's been long time since we updated the Forwards website. At some point our </span>
@@ -718,7 +719,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>we're happy to say that we've now updated from blogdown plus a convoluted </span>
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>Travis CI workflow, to Quarto plus a GitHub actions workflow. </span>
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>We have simplified the organization of posts, so that they are group by year </span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>We have simplified the organization of posts, so that they are grouped by year </span>
 <span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>rather than the full date of publication, which caused editing headaches when </span>
 <span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>collaborating on a blog post over several days or weeks. This has changed the </span>
 <span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>URL of blog posts, but rest assured we have added aliases so old links </span>
@@ -735,9 +736,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="co">[</span><span class="ot">2022 vol 2</span><span class="co">](https://journal.r-project.org/news/RJ-2022-2-forwards/)</span></span>
 <span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="co">[</span><span class="ot">2022 vol 4</span><span class="co">](https://journal.r-project.org/news/RJ-2022-4-forwards/)</span></span>
 <span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>We plan to round up news from 2023 in volume 4 of the R Journal.</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>A round up of news from 2023 should appear in 2023 volume 4 of the R Journal.</span>
 <span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>Beyond that we hope to post here more regular in the coming months!</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>Beyond that we hope to post here more regularly in the coming months!</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">
@@ -745,7 +746,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">© 2023 Forwards, under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> license.<br></div>
+    <div class="nav-footer-center">© 2024 Forwards, under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> license.<br></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

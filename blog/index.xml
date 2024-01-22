@@ -10,7 +10,41 @@
 <atom:link href="https://forwards.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>R Foundation taskforce on women and other under-represented groups.</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Sat, 06 Jun 2020 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Website Relaunch</title>
+  <dc:creator>Heather Turner</dc:creator>
+  <dc:creator>Ella Kaye</dc:creator>
+  <dc:creator>Zane Dax</dc:creator>
+  <link>https://forwards.github.io/blog/2024/website-relaunch/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It’s been long time since we updated the Forwards website. At some point our continuous integration workflow stopped working and we didn’t have time to fix it. Moreover, we wanted to take the opportunity to update to newer tools and processes, to make the website easy maintain. This was a bigger task, but we’re happy to say that we’ve now updated from blogdown plus a convoluted Travis CI workflow, to Quarto plus a GitHub actions workflow.</p>
+<p>We have simplified the organization of posts, so that they are grouped by year rather than the full date of publication, which caused editing headaches when collaborating on a blog post over several days or weeks. This has changed the URL of blog posts, but rest assured we have added aliases so old links should still work.</p>
+<p>Despite the lack of blog posts, the Forwards taskforce has remained active! We’ve updated the news section on our homepage, which captures some of the main activities in the past few years. For a fuller account of the missing years you can check out the news column of the R Journal</p>
+<ul>
+<li><a href="https://journal.r-project.org/news/RJ-2020-2-forwards-news/">2020 vol 2</a></li>
+<li><a href="https://journal.r-project.org/news/RJ-2021-1-forwardsnews/">2021 vol 1</a></li>
+<li><a href="https://journal.r-project.org/news/RJ-2021-2-forwards-news/">2021 vol 2</a></li>
+<li><a href="https://journal.r-project.org/news/RJ-2022-2-forwards/">2022 vol 2</a></li>
+<li><a href="https://journal.r-project.org/news/RJ-2022-4-forwards/">2022 vol 4</a></li>
+</ul>
+<p>A round up of news from 2023 should appear in 2023 volume 4 of the R Journal.</p>
+<p>Beyond that we hope to post here more regularly in the coming months!</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://forwards.github.io/blog/2024/website-relaunch/index.html</guid>
+  <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://forwards.github.io/images/forwards.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>#BlackLivesMatter: A joint statement by Forwards and R-Ladies</title>
   <link>https://forwards.github.io/blog/2020/blacklivesmatter-statement/index.html</link>
