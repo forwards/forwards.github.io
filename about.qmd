@@ -46,10 +46,7 @@ Kevin O’Brien - ‘Community’ team leader. Kevin is a data scientist working
 
 
 
-[Ella Kaye](https://ellakaye.rbind.io) - **'Community' team leader**. Ella is a statistician and R enthusiast. She's a founding member of RainbowR and a previous co-organiser of the Oxford R User Group. ([LinkedIn](https://www.linkedin.com/in/ella-kaye-9b878248/)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
-
-
-[Yanina Bellini Saibene]() - ‘Conferences’ team leader. Yanina is a professor at national universities in Argentina and Uruguay and a researcher who applies data science to the agricultural sector. She is co-founder of MetaDocencia, part of the R-Ladies Global Team, co-founder and chair of LatinR, chair of useR! 2021, chair of the 49 & 50 JAIIO, and chair of the AgroInformatics Congress. ([LinkedIn](https://www.linkedin.com/in/yabellini)/[Twitter](https://twitter.com/yabellini)/[GitHub](https://github.com/yabellini))
+[Ella Kaye](https://ellakaye.rbind.io) - 'Community' team leader. Ella is a statistician and R enthusiast. She's a founding member of RainbowR and a previous co-organiser of the Oxford R User Group. ([LinkedIn](https://www.linkedin.com/in/ella-kaye-9b878248/)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
 
 
 
@@ -61,26 +58,11 @@ Saranjeet Kaur Bhogal - ‘On-ramps’ team leader. Saranjeet volunteers for the
 
 
 
-
-[Tatjana Kecojevic](https://tanjakec.github.io/) - ‘Surveys’ team leader. Tanja is a statistician, instructor and consultant. She is the founder of Sister Analyst, an NGO devoted to empowering women and other under-represented groups, in the field of data literacy and science. Tanja is also the founder and co-organiser of the R-Ladies Manchester and Belgrade chapters. Her enthusiasm for data science is matched by her commitment to inclusivity. Data skills should be accessible to anyone with a desire to discover. ([LinkedIn](https://www.linkedin.com/in/tatjana-kecojevic-803704143/)/[Twitter](https://twitter.com/Tatjana_Kec)/[GitHub](https://github.com/TanjaKec))
-
-
-
 [Andrea Sánchez-Tapia]() - ‘Surveys’ team leader. Andrea is a computational biologist, working with biodiversity informatics and open and reproducible workflows in ecology. She teaches R and other computational skills in academic and non-academic environments, and co-organizes R-Ladies Rio de Janeiro. ([Twitter](https://twitter.com/SanchezTapiaA)/[GitHub](https://github.com/AndreaSanchezTapia))
 
 
 
-
-Anna Vasylytsya - ‘Surveys’ team leader. ([LinkedIn](https://www.linkedin.com/in/annavasylytsya)/[GitHub](https://github.com/annnvv))
-
-
-
-[Mine Çetinkaya-Rundel](http://mine-cr.com/) - **'Teaching' team leader**. Mine is a Professor at Duke University and Data Scientist & Professional Educator at RStudio. ([LinkedIn](https://www.linkedin.com/in/minec/)/[Twitter](https://twitter.com/minebocek)/[GitHub](https://github.com/mine-cetinkaya-rundel))
-
-
-
-
-[Emma Rand](https://www.york.ac.uk/biology/our-staff/emma-rand/) - **'Teaching' team leader**. Emma is a Senior Lecturer (Associate Professor) at the University of York, UK and teaches reproducible data analysis to bioscientists in her institution and with the Royal Society of Biology and the Biochemical Society. ([LinkedIn](https://www.linkedin.com/in/emma-rand-6b0a61a/)/[Twitter](https://twitter.com/er13_r)/[GitHub](https://github.com/3mmaRand))
+[Emma Rand](https://www.york.ac.uk/biology/our-staff/emma-rand/) - 'Teaching' team leader. Emma is a Senior Lecturer (Associate Professor) at the University of York, UK and teaches reproducible data analysis to bioscientists in her institution and with the Royal Society of Biology and the Biochemical Society. ([LinkedIn](https://www.linkedin.com/in/emma-rand-6b0a61a/)/[Twitter](https://twitter.com/er13_r)/[GitHub](https://github.com/3mmaRand))
 
 
 
@@ -92,46 +74,15 @@ Zane Dax - **'Accessibility' team member**. ([Twitter](https://twitter.com/start
 [Liz Hare](http://www.doggenetics.com) - **'Accessibility' team member**. ([LinkedIn](https://www.linkedin.com/in/liz-hare-1a50925/)/[Mastodon](https://mstdn.social/@lizhare@fosstodon.org)/[GitHub](https://github.com/LizHareDogs))
 
 
-
-Florencia Mangini - **'Accessibility' team member**. ([Twitter](https://twitter.com/manginiflor)/[GitHub](https://github.com/frm1789))
-
-
-
-[Becca Wilson](https://drbeccawilson.co.uk) - **'Accessibility' team member**. ([LinkedIn](https://www.linkedin.com/in/drbeccawilson/)/[Twitter](https://twitter.com/drbeccawilson?lang=en))
-
-
-
-
-[Tania Allard](https://bitsandchips.me/) - **'Community' team member**. ([LinkedIn](https://www.linkedin.com/in/taniasanchezmonroy/)/[GitHub](https://github.com/trallard))
-
-
-
-[Damiano Cerasuolo](https://damiacer.github.io/) - **'Community' team member**. ([LinkedIn](http://www.linkedin.com/in/damianocerasuolo)/[Twitter](https://twitter.com/damiacer)/[GitHub](https://github.com/damiacer))
-
-
-
-
-Joslynn Lee - **'Community' team member**. ([LinkedIn](https://www.linkedin.com/in/joslynnlee/)/[Twitter](https://twitter.com/theoreticalfun)/[GitHub](https://github.com/joslynnlee))
-
-
-
-
 [Samantha Toet](https://samtoet.cool/) - **'Community' team member**. ([LinkedIn](https://www.linkedin.com/in/samanthatoet/)/[Twitter](https://twitter.com/Samantha_Toet)/[GitHub](https://github.com/SamanthaToet))
 
 
+[Liz Hare](http://www.doggenetics.com) - **'Conferences' team member**. ([LinkedIn](https://www.linkedin.com/in/liz-hare-1a50925/)/[Mastodon](https://mstdn.social/@lizhare@fosstodon.org)/[GitHub](https://github.com/LizHareDogs))
+
+[Yanina Bellini Saibene](https://yabellini.netlify.app/) - **‘Conferences’ team member**. ([LinkedIn](https://www.linkedin.com/in/yabellini)/[Twitter](https://twitter.com/yabellini)/[GitHub](https://github.com/yabellini))
 
 
 [Julie Josse](http://juliejosse.com/) - **'Conferences' team member**. ([LinkedIn](https://www.linkedin.com/in/julie-josse-4886a2140/)/[Twitter](https://twitter.com/JulieJosseStat)/[GitHub](https://github.com/julierennes))
-
-
-
-
-[Imke Mayer](https://www.imkemayer.com) - **'Conferences' team member**. ([LinkedIn](https://www.linkedin.com/in/imke-mayer-426a36131)/[Twitter](https://twitter.com/imkemay)/[GitHub](https://github.com/imkemayer))
-
-
-
-
-Miljenka Vuko - **'Conferences' team member**. ([LinkedIn](https://www.linkedin.com/in/miljenka-vuko-946101193/)/[Twitter](https://twitter.com/miljenka_vuko)/[GitHub](https://github.com/mvuko))
 
 
 
@@ -142,35 +93,14 @@ Miljenka Vuko - **'Conferences' team member**. ([LinkedIn](https://www.linkedin.
 Michael Chirico - **'On-ramps' team member**. ([Twitter](https://twitter.com/michael_chirico)/[GitHub](https://github.com/MichaelChirico))
 
 
-[Maya Gans](https://maya.rbind.io/) - **'On-ramps' team member**. ([Twitter](https://twitter.com/Mayacelium)/[GitHub](https://github.com/MayaGans))
-
-
-
 Michael Lawrence - **'On-ramps' team member**. ([LinkedIn](https://www.linkedin.com/in/michael-lawrence-74a9b482/)/[Twitter](https://twitter.com/lawremi)/[GitHub](https://github.com/lawremi))
 
-
-
-Pavitra Chakravarty - **'Surveys' team member**. ([Twitter](https://twitter.com/genomixgmailcom)/[GitHub](https://github.com/CH-Pavitra))
-
-
-
+Allison Vuong - **'On-ramps' team member**. ([LinkedIn](https://www.linkedin.com/in/allison-vuong/)/[GitHub](https://github.com/allisonvuong))
 
 [Paola Corrales](https://paocorrales.github.io/) - **'Surveys' team member**. ([Twitter](https://twitter.com/paobcorrales?lang=en)/[GitHub](https://github.com/paocorrales))
 
 
-
-
-
-[Nujcharee Haswell](https://pedzilla.netlify.com/) - **'Surveys' team member**. ([LinkedIn](https://www.linkedin.com/in/nujcharee-haswell-นุชรี-แฮสเวล-55a86729/)/[Twitter](https://twitter.com/nujcharee)/[GitHub](https://github.com/nujcharee))
-
-
-
-
-
 Claudia Huaylla - **'Surveys' team member**. ([Twitter](https://twitter.com/clauwmath)/[GitHub](https://github.com/claudiah85))
-
-
-
 
 
 [Di Cook](http://dicook.org) - **'Teaching' team member**. ([LinkedIn](https://au.linkedin.com/in/dianne-cook-a4877a104)/[Twitter](https://twitter.com/visnut)/[GitHub](https://github.com/dicook))
@@ -186,16 +116,14 @@ Emily Dodwell - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.com
 [Isabella Gollini](https://sites.google.com/site/isabellagollini/) - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.com/in/isabellagollini/)/[Twitter](https://twitter.com/IsabellaGollini)/[GitHub](https://github.com/igollini))
 
 
+[Mine Çetinkaya-Rundel](http://mine-cr.com/) - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.com/in/minec/)/[Twitter](https://twitter.com/minebocek)/[GitHub](https://github.com/mine-cetinkaya-rundel))
 
 
 Ritwik Mitra - **'Teaching' team member**. ([LinkedIn](www.linkedin.com/in/riikmitra)/[Twitter](https://twitter.com/riikmitra)/[GitHub](https://github.com/kiwtir))
 
 
 
-
-
 Maria Prokofieva - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.com/in/mariapr/)/[Twitter](https://twitter.com/m45hap)/[GitHub](https://github.com/maria-pro))
-
 
 
 
@@ -207,12 +135,36 @@ Maria Prokofieva - **'Teaching' team member**. ([LinkedIn](https://www.linkedin.
 
 
 
-
-
 ## Previous Members
 
+Becca Wilson
+
+Anna Vasylytsya 
+
+Nujcharee Haswell
+
+Pavitra Chakravarty 
+
+Maya Gans
+
+Miljenka Vuko 
+
+Imke Mayer
+
+Florencia Mangini 
+
+Joslynn Lee
+
+Damiano Cerasuolo
+
+Tania Allard
+
+Tatjana Kecojevic
+
 Richard Ngamita
+
 Lorna Maria Aine  
+
 Stella Bollman  
 Jenny Bryan  
 Nic Crane  
