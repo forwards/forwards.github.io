@@ -6,18 +6,19 @@
       version="2.0">
 <channel>
 <title>Forwards</title>
-<link>https://forwards.github.io/blog/index.html</link>
+<link>https://forwards.github.io/blog/</link>
 <atom:link href="https://forwards.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>R Foundation taskforce on women and other under-represented groups.</description>
-<generator>quarto-1.3.450</generator>
+<generator>quarto-1.4.549</generator>
 <lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Website Relaunch</title>
   <dc:creator>Heather Turner</dc:creator>
   <dc:creator>Ella Kaye</dc:creator>
   <dc:creator>Zane Dax</dc:creator>
-  <link>https://forwards.github.io/blog/2024/website-relaunch/index.html</link>
+  <link>https://forwards.github.io/blog/2024/website-relaunch/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -41,14 +42,15 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://forwards.github.io/blog/2024/website-relaunch/index.html</guid>
+  <guid>https://forwards.github.io/blog/2024/website-relaunch/</guid>
   <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="https://forwards.github.io/images/forwards.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>#BlackLivesMatter: A joint statement by Forwards and R-Ladies</title>
-  <link>https://forwards.github.io/blog/2020/blacklivesmatter-statement/index.html</link>
+  <link>https://forwards.github.io/blog/2020/blacklivesmatter-statement/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -94,15 +96,16 @@
  ]]></description>
   <category>community</category>
   <category>news</category>
-  <guid>https://forwards.github.io/blog/2020/blacklivesmatter-statement/index.html</guid>
+  <guid>https://forwards.github.io/blog/2020/blacklivesmatter-statement/</guid>
   <pubDate>Sat, 06 Jun 2020 00:00:00 GMT</pubDate>
   <media:content url="https://forwards.github.io/blog/2020/blacklivesmatter-statement/blm.png" medium="image" type="image/png" height="54" width="144"/>
 </item>
 <item>
   <title>Southern Africa Project 2020</title>
   <dc:creator>Heather Turner</dc:creator>
-  <link>https://forwards.github.io/blog/2020/southern-africa-project-2020/index.html</link>
+  <link>https://forwards.github.io/blog/2020/southern-africa-project-2020/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -160,15 +163,16 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>community</category>
   <category>education</category>
   <category>software</category>
-  <guid>https://forwards.github.io/blog/2020/southern-africa-project-2020/index.html</guid>
+  <guid>https://forwards.github.io/blog/2020/southern-africa-project-2020/</guid>
   <pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Recap of R-Ladies Charlottesville Forwards Workshop</title>
   <dc:creator>Angela Li</dc:creator>
   <dc:creator>Samantha Toet</dc:creator>
-  <link>https://forwards.github.io/blog/2019/rladies-charlottesville-workshop-recap/index.html</link>
+  <link>https://forwards.github.io/blog/2019/rladies-charlottesville-workshop-recap/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -193,15 +197,16 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>education</category>
   <category>software</category>
   <category>community</category>
-  <guid>https://forwards.github.io/blog/2019/rladies-charlottesville-workshop-recap/index.html</guid>
+  <guid>https://forwards.github.io/blog/2019/rladies-charlottesville-workshop-recap/</guid>
   <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
   <media:content url="https://forwards.github.io/blog/2019/rladies-charlottesville-workshop-recap/optimized/group_photo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The state of R in Africa</title>
   <dc:creator>Lorna Maria</dc:creator>
-  <link>https://forwards.github.io/blog/2019/the-state-of-r-in-africa/index.html</link>
+  <link>https://forwards.github.io/blog/2019/the-state-of-r-in-africa/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -233,14 +238,15 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
  ]]></description>
   <category>news</category>
   <category>community</category>
-  <guid>https://forwards.github.io/blog/2019/the-state-of-r-in-africa/index.html</guid>
+  <guid>https://forwards.github.io/blog/2019/the-state-of-r-in-africa/</guid>
   <pubDate>Fri, 15 Nov 2019 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Workshops for Women and Girls</title>
   <dc:creator>Forwards Teaching Team</dc:creator>
-  <link>https://forwards.github.io/blog/2019/workshops-for-women-and-girls/index.html</link>
+  <link>https://forwards.github.io/blog/2019/workshops-for-women-and-girls/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -259,7 +265,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://forwards.github.io/blog/2019/workshops-for-women-and-girls/eRum-package-workshop.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Women in group discussions at the Budapest package development workshop</figcaption>
+<figcaption>Women in group discussions at the Budapest package development workshop</figcaption>
 </figure>
 </div>
 </section>
@@ -271,7 +277,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://forwards.github.io/blog/2019/workshops-for-women-and-girls/girls-workshop-nyc-working.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Working photo at the New York City Forwards girls’ workshop</figcaption>
+<figcaption>Working photo at the New York City Forwards girls’ workshop</figcaption>
 </figure>
 </div>
 </section>
@@ -280,14 +286,14 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://forwards.github.io/blog/2019/workshops-for-women-and-girls/chicago-package-workshop.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Group photo of women at the Chicago package development workshop</figcaption>
+<figcaption>Group photo of women at the Chicago package development workshop</figcaption>
 </figure>
 </div>
 <p>Angela Li and Stephanie Kirmer, both of R-Ladies Chicago, organized a women’s package workshop in February 2019 for 30 women at the Center for Spatial Data Science in Chicago. This marked the first time an R-Ladies group had run the full package development workshop. The workshop brought women from 11 states in the US to freezing-cold Chicago to learn how to develop their first package. The workshop was preceded by an R-Ladies get-together with an R-Ladies purple cake, where workshop participants from out-of-town were able to get to know each other.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://forwards.github.io/blog/2019/workshops-for-women-and-girls/chicago-rladies-purple-cake.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Group photo of women at the R-Ladies get-together behind a table with a large iced purple cake</figcaption>
+<figcaption>Group photo of women at the R-Ladies get-together behind a table with a large iced purple cake</figcaption>
 </figure>
 </div>
 <p><a href="https://skirmer.github.io/ChiEval">Pre and post-survey results</a> from the workshop can be found online (thank you, Stephanie, for putting this together!). For a more in-depth look at the event, <a href="https://www.jlukito.com/blog/2019/2/24/attending-the-r-forwards-package-workshop-hosted-by-r-ladies-chicago">Josephine Lukito</a> and <a href="https://rladieschicago.org/post/2019-02-28-rworkshop_recap/">Florencia Mangini</a> both wrote fantastic recaps of the workshop. You can also find tweets from the event under the hashtag <a href="https://twitter.com/search?q=%23RForwardsChi">#RForwardsChi</a> on Twitter.</p>
@@ -299,7 +305,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://forwards.github.io/blog/2019/workshops-for-women-and-girls/brisbane-girls-workshop.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The view into River City Labs where the Brisbane girls coding workshop was held, with the girls and leaders chatting at the pizza lunch</figcaption>
+<figcaption>The view into River City Labs where the Brisbane girls coding workshop was held, with the girls and leaders chatting at the pizza lunch</figcaption>
 </figure>
 </div>
 </section>
@@ -317,15 +323,16 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>education</category>
   <category>software</category>
   <category>community</category>
-  <guid>https://forwards.github.io/blog/2019/workshops-for-women-and-girls/index.html</guid>
+  <guid>https://forwards.github.io/blog/2019/workshops-for-women-and-girls/</guid>
   <pubDate>Sun, 22 Sep 2019 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>HavanaR Workshop 2018</title>
   <dc:creator>Ziv Shkedy</dc:creator>
   <dc:creator>Julie Josse</dc:creator>
-  <link>https://forwards.github.io/blog/2018/havanar/index.html</link>
+  <link>https://forwards.github.io/blog/2018/havanar/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -350,7 +357,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>news</category>
   <category>community</category>
   <category>education</category>
-  <guid>https://forwards.github.io/blog/2018/havanar/index.html</guid>
+  <guid>https://forwards.github.io/blog/2018/havanar/</guid>
   <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -362,8 +369,9 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <dc:creator>Marcela Alfaro</dc:creator>
   <dc:creator>Alejandro Reyes</dc:creator>
   <dc:creator>Heather Turner</dc:creator>
-  <link>https://forwards.github.io/blog/2018/r-in-latin-america/index.html</link>
+  <link>https://forwards.github.io/blog/2018/r-in-latin-america/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -448,7 +456,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
  ]]></description>
   <category>news</category>
   <category>community</category>
-  <guid>https://forwards.github.io/blog/2018/r-in-latin-america/index.html</guid>
+  <guid>https://forwards.github.io/blog/2018/r-in-latin-america/</guid>
   <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -459,8 +467,9 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <dc:creator>Theoni Photopoulou</dc:creator>
   <dc:creator>Margareth Gfrerer</dc:creator>
   <dc:creator>Heather Turner</dc:creator>
-  <link>https://forwards.github.io/blog/2017/r-in-africa/index.html</link>
+  <link>https://forwards.github.io/blog/2017/r-in-africa/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -511,14 +520,15 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
  ]]></description>
   <category>news</category>
   <category>community</category>
-  <guid>https://forwards.github.io/blog/2017/r-in-africa/index.html</guid>
+  <guid>https://forwards.github.io/blog/2017/r-in-africa/</guid>
   <pubDate>Fri, 01 Dec 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Girls Coding Workshop, Melbourne</title>
   <dc:creator>Di Cook</dc:creator>
-  <link>https://forwards.github.io/blog/2017/girls-coding-workshop-melbourne/index.html</link>
+  <link>https://forwards.github.io/blog/2017/girls-coding-workshop-melbourne/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -539,7 +549,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>community</category>
   <category>training</category>
   <category>teaching</category>
-  <guid>https://forwards.github.io/blog/2017/girls-coding-workshop-melbourne/index.html</guid>
+  <guid>https://forwards.github.io/blog/2017/girls-coding-workshop-melbourne/</guid>
   <pubDate>Mon, 20 Nov 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -553,8 +563,9 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <dc:creator>Oliver Keyes</dc:creator>
   <dc:creator>Carolin Strobl</dc:creator>
   <dc:creator>Heather Turner&quot;</dc:creator>
-  <link>https://forwards.github.io/blog/2017/users-participation-in-the-r-community/index.html</link>
+  <link>https://forwards.github.io/blog/2017/users-participation-in-the-r-community/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -749,7 +760,7 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>useR!</category>
   <category>survey</category>
   <category>community</category>
-  <guid>https://forwards.github.io/blog/2017/users-participation-in-the-r-community/index.html</guid>
+  <guid>https://forwards.github.io/blog/2017/users-participation-in-the-r-community/</guid>
   <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -763,8 +774,9 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <dc:creator>Oliver Keyes</dc:creator>
   <dc:creator>Carolin Strobl</dc:creator>
   <dc:creator>Heather Turner</dc:creator>
-  <link>https://forwards.github.io/blog/2017/users-relationship-with-r/index.html</link>
+  <link>https://forwards.github.io/blog/2017/users-relationship-with-r/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -877,14 +889,15 @@ Photo of Eswatini UseR group by Emmanual Ọlámíjùwọ́n.</p>
   <category>useR!</category>
   <category>survey</category>
   <category>programming</category>
-  <guid>https://forwards.github.io/blog/2017/users-relationship-with-r/index.html</guid>
+  <guid>https://forwards.github.io/blog/2017/users-relationship-with-r/</guid>
   <pubDate>Sat, 11 Mar 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Emily Robinson, from Social Scientist to Data Scientist</title>
   <dc:creator>Maëlle Salmon</dc:creator>
-  <link>https://forwards.github.io/blog/2017/emily-robinson-interview/index.html</link>
+  <link>https://forwards.github.io/blog/2017/emily-robinson-interview/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -941,13 +954,14 @@ at Etsy."
   <category>interviews</category>
   <category>data science</category>
   <category>careers</category>
-  <guid>https://forwards.github.io/blog/2017/emily-robinson-interview/index.html</guid>
+  <guid>https://forwards.github.io/blog/2017/emily-robinson-interview/</guid>
   <pubDate>Tue, 07 Feb 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Call to Join Forwards</title>
-  <link>https://forwards.github.io/blog/2017/call-to-join-forwards/index.html</link>
+  <link>https://forwards.github.io/blog/2017/call-to-join-forwards/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -966,7 +980,7 @@ at Etsy."
  ]]></description>
   <category>news</category>
   <category>action</category>
-  <guid>https://forwards.github.io/blog/2017/call-to-join-forwards/index.html</guid>
+  <guid>https://forwards.github.io/blog/2017/call-to-join-forwards/</guid>
   <pubDate>Fri, 13 Jan 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -980,8 +994,9 @@ at Etsy."
   <dc:creator>Oliver Keyes</dc:creator>
   <dc:creator>Carolin Strobl</dc:creator>
   <dc:creator>Heather Turner</dc:creator>
-  <link>https://forwards.github.io/blog/2017/mapping-users/index.html</link>
+  <link>https://forwards.github.io/blog/2017/mapping-users/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1188,7 +1203,7 @@ at Etsy."
 <li id="fn9"><p>R Foundation (2015) <em><a href="https://www.r-project.org/behaviour.html">Codes of Conduct at R Conferences</a></em>↩︎</p></li>
 </ol>
 </section></div> ]]></description>
-  <guid>https://forwards.github.io/blog/2017/mapping-users/index.html</guid>
+  <guid>https://forwards.github.io/blog/2017/mapping-users/</guid>
   <pubDate>Fri, 13 Jan 2017 00:00:00 GMT</pubDate>
 </item>
 </channel>
