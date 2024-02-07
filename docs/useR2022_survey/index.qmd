@@ -1,0 +1,7 @@
+---
+format: 
+  html:
+    page-layout: full
+---
+
+<iframe src="survey.html" frameborder="0" height="100%" width="100%" allowfullscreen></iframe>

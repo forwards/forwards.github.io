@@ -2,6 +2,16 @@
 
 ## Survey Reports
 
+[useR! 2022 survey](useR2022_survey)
+
+[useR! 2021 survey](useR2021_survey)
+
+[useR! 2020 survey](useR2020_survey)
+
+[useR! 2019 survey](useR2019_survey)
+
+[useR! 2018 survey](useR2018_survey)
+
 [2017-06-18: useR! 2016 participants and the R community: a multivariate analysis](MCA_community_useR2016_survey)
 
 [2017-06-17: useR! 2016 participants and R programming: a multivariate analysis](MCA_programming_useR2016_survey)
