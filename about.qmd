@@ -78,30 +78,30 @@ Maria Prokofieva - ([LinkedIn](https://www.linkedin.com/in/mariapr/)/[Twitter](h
 
 ## Previous Members
 
-Claudia Huaylla
-Andrea Sánchez-Tapia
-Samantha Toet
-Yanina Bellini Saibene
-Jyoti Bhogal
-Ritwik Mitra
-Emily Dodwell
-Allison Vuong 
-Becca Wilson
-Anna Vasylytsya 
-Nujcharee Haswell
-Pavitra Chakravarty 
-Maya Gans
-Miljenka Vuko 
-Imke Mayer
-Florencia Mangini 
-Joslynn Lee
-Damiano Cerasuolo
-Tania Allard
-Tatjana Kecojevic
-Richard Ngamita
-Lorna Maria Aine  
-Stella Bollman  
-Jenny Bryan  
+Claudia Huaylla  
+Andrea Sánchez-Tapia  
+Samantha Toet   
+Yanina Bellini Saibene   
+Jyoti Bhogal   
+Ritwik Mitra  
+Emily Dodwell   
+Allison Vuong    
+Becca Wilson   
+Anna Vasylytsya    
+Nujcharee Haswell   
+Pavitra Chakravarty    
+Maya Gans   
+Miljenka Vuko    
+Imke Mayer   
+Florencia Mangini    
+Joslynn Lee   
+Damiano Cerasuolo   
+Tania Allard   
+Tatjana Kecojevic   
+Richard Ngamita   
+Lorna Maria Aine     
+Stella Bollman    
+Jenny Bryan    
 Nic Crane  
 Rudolf Debelak  
 John Fox  
