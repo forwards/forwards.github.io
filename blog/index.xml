@@ -9,7 +9,7 @@
 <link>https://forwards.github.io/blog/</link>
 <atom:link href="https://forwards.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>R Foundation taskforce on women and other under-represented groups.</description>
-<generator>quarto-1.4.549</generator>
+<generator>quarto-1.4.555</generator>
 <lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Website Relaunch</title>
@@ -1050,7 +1050,7 @@ at Etsy."
 <section id="education" class="level3">
 <h3 class="anchored" data-anchor-id="education">Education</h3>
 <p>The vast majority of attendees (&gt;85%, of n = 451) had <em>completed</em> postgraduate degrees:</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Highest Qualification Completed</th>
@@ -1096,7 +1096,7 @@ at Etsy."
 <p><img src="https://forwards.github.io/blog/2017/mapping-users/unnamed-chunk-6-1.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" style="display: block; margin: auto;"></p>
 <p>Another interesting takeaway was that men are more likely to work in industry and permanent academic jobs than women - and women are far, <em>far</em> more likely to be students. Again, this isn’t surprising since it fits the pattern that women attending tend to be younger than men, and overall patterns that the tech industry (which is where one would expect the majority of privately-employed R programmers and scientists to work) has a known problem with employing and promoting women, as does academia.</p>
 <p>Almost all attendees work full-time. It’s difficult to tell if this is due to the wider community largely being employed or engaged in full-time activities, or due to the cost of attendance diminishing the ability of community members in more economically fragile situations such as part-time work or unemployment to attend. Female attendees were less likely to work part-time, and far more likely to identify their status as unemployed (although the sample size is too small to really draw conclusions):</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Employment Status</th>
@@ -1128,7 +1128,7 @@ at Etsy."
 <h3 class="anchored" data-anchor-id="caregiving">Caregiving</h3>
 <p>Approximately a quarter of respondents answered “yes” to the question “are you a caregiver for children or adult dependents on a regular basis?” (n = 445). More men than women identified as caregivers. This either indicates that R programmers are a singularly socially enlightened population, or reflects wider sociological conditioning around caregiving which makes it easier for men to leave children at home with their partner (if applicable) than for women to do the same - resulting in a self-selection effect in which women with children are less likely to be able to attend (and so women who do attend are less likely to have children they care for).</p>
 <p>Qualitative data suggests, unsurprisingly, the latter - in the free-text field for the survey, several (female) respondents mentioned the difficulty of persuading their (male) partners to handle childcare to allow them to attend conferences.</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Caregiving Status</th>

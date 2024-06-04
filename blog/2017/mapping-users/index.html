@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -221,7 +221,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <div class="quarto-navbar-tools tools-wide">
     <div class="dropdown">
       <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
-      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
             <a class="dropdown-item quarto-navbar-tools-item" href="https://github.com/forwards/website_source">
             Source Code
@@ -370,7 +370,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="education" class="level3">
 <h3 class="anchored" data-anchor-id="education">Education</h3>
 <p>The vast majority of attendees (&gt;85%, of n = 451) had <em>completed</em> postgraduate degrees:</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Highest Qualification Completed</th>
@@ -416,7 +416,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><img src="unnamed-chunk-6-1.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" style="display: block; margin: auto;"></p>
 <p>Another interesting takeaway was that men are more likely to work in industry and permanent academic jobs than women - and women are far, <em>far</em> more likely to be students. Again, this isn’t surprising since it fits the pattern that women attending tend to be younger than men, and overall patterns that the tech industry (which is where one would expect the majority of privately-employed R programmers and scientists to work) has a known problem with employing and promoting women, as does academia.</p>
 <p>Almost all attendees work full-time. It’s difficult to tell if this is due to the wider community largely being employed or engaged in full-time activities, or due to the cost of attendance diminishing the ability of community members in more economically fragile situations such as part-time work or unemployment to attend. Female attendees were less likely to work part-time, and far more likely to identify their status as unemployed (although the sample size is too small to really draw conclusions):</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Employment Status</th>
@@ -448,7 +448,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 class="anchored" data-anchor-id="caregiving">Caregiving</h3>
 <p>Approximately a quarter of respondents answered “yes” to the question “are you a caregiver for children or adult dependents on a regular basis?” (n = 445). More men than women identified as caregivers. This either indicates that R programmers are a singularly socially enlightened population, or reflects wider sociological conditioning around caregiving which makes it easier for men to leave children at home with their partner (if applicable) than for women to do the same - resulting in a self-selection effect in which women with children are less likely to be able to attend (and so women who do attend are less likely to have children they care for).</p>
 <p>Qualitative data suggests, unsurprisingly, the latter - in the free-text field for the survey, several (female) respondents mentioned the difficulty of persuading their (male) partners to handle childcare to allow them to attend conferences.</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Caregiving Status</th>
@@ -797,6 +797,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   if (showAllCode) {
     showAllCode.addEventListener("click", toggleCodeHandler(true));
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/forwards\.github\.io\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -831,7 +849,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
