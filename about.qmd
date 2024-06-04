@@ -98,8 +98,10 @@ Joslynn Lee
 Damiano Cerasuolo   
 Tania Allard   
 Tatjana Kecojevic   
-Richard Ngamita   
-Lorna Maria Aine     
+Richard Ngamita 
+
+Lorna Maria Aine
+
 Stella Bollman    
 Jenny Bryan    
 Nic Crane  
