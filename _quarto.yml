@@ -55,6 +55,9 @@ website:
         aria-label: mastodon
         href: https://hachyderm.io/@R_Forwards
         rel: me
+      - text: "{{< iconify simple-icons:bluesky >}}"
+        aria-label: bluesky
+        href: https://bsky.app/profile/R-Forwards.hachyderm.io.ap.brid.gy
       - icon: rss
         href: blog/index.xml
       - icon: envelope

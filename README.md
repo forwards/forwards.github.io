@@ -187,6 +187,16 @@ with photo-viewing software) to remove "empty" space, short and wide photos
 work well, so people don't have to scroll a long way to get to the next text 
 block.
 
+### Icons
+
+The [Iconify Extension for Quarto](https://github.com/mcanouil/quarto-iconify) 
+has been installed so that you can use icons from 
+[Iconify](https://icon-sets.iconify.design), e.g., 
+
+```r
+{{< iconify exploding-head >}}
+```
+
 ## Redirects
 
 If a page is moved, it's a good idea to add a redirect so that old links will 
