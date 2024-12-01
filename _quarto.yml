@@ -67,9 +67,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            url: https://github.com/forwards/website_source
+            url: https://github.com/forwards/forwards.github.io
           - text: Report a Bug
-            url: https://github.com/forwards/website_source
+            url: https://github.com/forwards/forwards.github.io/issues
    
     search: true
 
