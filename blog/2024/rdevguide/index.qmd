@@ -35,6 +35,6 @@ We were aware that at some point we will migrating the R Dev Guide from [Bookdow
 
 ## Notable community contributions
 
-During this week, we also had some notable contributions from the community. Especially, Cam Race and Carlos Cámara contributed to the guide remotely.
+During this week, we also had some notable contributions from the community. Especially, Cam Race and Carlos Cámara contributed to the guide remotely. Cam Race continued on the work he started during the [R Dev Day at SIP 2024](https://www.jumpingrivers.com/blog/r-dev-day-2024/) which was inspired from the contributions by Mahmoud Abdelrazek and Sarah Jaffa (during the [R Development Hackathon at RSECon24](https://rsecon24.society-rse.org/programme/community-discovery-day/)).
 
 Overall, it was a very productive week! We are excited to see the R Dev Guide evolve further and welcome more contributors to the project. If you are interested in contributing to the R Dev Guide, please check out the [GitHub repository](https://github.com/r-devel/rdevguide) and the [Contributing guidelines](https://github.com/r-devel/rdevguide?tab=readme-ov-file#contributing).
