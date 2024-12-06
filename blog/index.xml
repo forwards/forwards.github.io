@@ -10,7 +10,66 @@
 <atom:link href="https://forwards.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>R Foundation taskforce on women and other under-represented groups.</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>A Book Dash for the R Development Guide</title>
+  <dc:creator>Saranjeet Kaur Bhogal</dc:creator>
+  <dc:creator>Heather Turner</dc:creator>
+  <link>https://forwards.github.io/blog/2024/rdevguide/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This last month of 2024 started with a lot of updates to the <a href="https://contributor.r-project.org/rdevguide/">R Development (Dev) Guide</a>. It has been almost 4 years since the discussions about having such a guide started during useR! 2020. The guide has come a long way since then, and there some exciting updates to it.</p>
+<p>In the first week of December 2024, Saranjeet Kaur Bhogal visited Heather Turner at the University of Warwick, UK. We spent the week co-working on the R Dev Guide and managed to close quite a few old issues 🎉</p>
+<section id="witnessing-december-turning-into-closember" class="level2">
+<h2 class="anchored" data-anchor-id="witnessing-december-turning-into-closember">Witnessing December turning into Closember!</h2>
+<p>We started the week walking through the oldest open issues and pull requests on the Dev Guide’s repository and decided to tackle them as a priority. Over the week, we managed to close approximately 21 issues and 10 pull requests (not made by a bot). This included some new issues and pull requests that were opened during the week. The oldest issue that we managed to close was from 2020 and Heather did a comprehensive review of an outstanding pull request from 2022 (still not merged, but we are happy that it has been reviewed and is up to date).</p>
+<p>Here’s a peak into the insights from the <a href="https://github.com/r-devel/rdevguide">Dev Guide’s GitHub repository</a> for the week of the book dash:</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://forwards.github.io/blog/2024/rdevguide/repo_contributions.png" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>R Dev Guide GitHub repository insights</figcaption>
+</figure>
+</div>
+</section>
+<section id="a-new-cover-image-for-the-r-dev-guide" class="level2">
+<h2 class="anchored" data-anchor-id="a-new-cover-image-for-the-r-dev-guide">A new cover image for the R Dev Guide</h2>
+<p>We have always wanted to have a cover image for the R Dev Guide and we finally have one! The cover image is inspired from an illustration that Saranjeet co-created with a Scriberia artist during <a href="https://book.the-turing-way.org/community-handbook/bookdash.html">The Turing Way book dash</a> in June 2024. The illustration attempts to capture the essence of the R Dev Guide and the community around it. It depicts how the guide welcomes contributors to the R project from all levels, beginners, intermediate, and seasoned. The image shows contributors at beginner level putting the building blocks together, the contributors at intermediate level who have more familiarity with the tools using them to build the project further, and those at the seasoned levels constructing more advanced work.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://forwards.github.io/blog/2024/rdevguide/cover_page_scriberia.png" class="img-fluid figure-img" style="width:20.0%"></p>
+<figcaption>R Dev Guide’s new cover image</figcaption>
+</figure>
+</div>
+</section>
+<section id="hello-quarto" class="level2">
+<h2 class="anchored" data-anchor-id="hello-quarto">Hello, Quarto!</h2>
+<p>We thought that at some point it would be good to migrate the R Dev Guide from <a href="https://bookdown.org/">Bookdown</a> to <a href="https://quarto.org/">Quarto</a>. We achieved this faster than expected with Ella Kaye bringing her energy and enthusiam to the task. She managed to migrate the guide to Quarto and yes, we are now live on Quarto!</p>
+Explore the Quarto version of the guide embedded below (it’s scrollable and clickable - try it!) 👀
+<div class="container">
+<p><iframe class="frame" src="https://contributor.r-project.org/rdevguide/" title="The R Development Guide"></iframe></p>
+</div>
+<p>The full scale version is available at <a href="https://contributor.r-project.org/rdevguide/" class="uri">https://contributor.r-project.org/rdevguide/</a>.</p>
+</section>
+<section id="community-contributions" class="level2">
+<h2 class="anchored" data-anchor-id="community-contributions">Community contributions</h2>
+<p>During the week, we also had some notable contributions from the community. In particular, Cam Race and Carlos Cámara contributed to the guide remotely. Cam Race continued on the work he started during the <a href="https://www.jumpingrivers.com/blog/r-dev-day-2024/">R Dev Day at SIP 2024</a> which was inspired from contributions by Mahmoud Abdelrazek and Sarah Jaffa during the <a href="https://rsecon24.society-rse.org/programme/community-discovery-day/">R Hackathon at RSECon24</a>.</p>
+<p>Overall, it was a very productive week! We are excited to see the R Dev Guide evolve further and welcome more contributors to the project. If you are interested in contributing, check out the <a href="https://github.com/r-devel/rdevguide?tab=readme-ov-file#contributing">Contributing guidelines</a> and the <a href="https://github.com/r-devel/rdevguide/labels/good%20first%20issue">good first issues on the GitHub repository</a> 🚀</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://forwards.github.io/blog/2024/rdevguide/</guid>
+  <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://forwards.github.io/blog/2024/rdevguide/r-development-guide.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Website Relaunch</title>
   <dc:creator>Heather Turner</dc:creator>
