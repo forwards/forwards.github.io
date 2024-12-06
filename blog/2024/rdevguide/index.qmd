@@ -38,6 +38,7 @@ Explore the Quarto version of the guide embedded below (it's scrollable and clic
 <div class="container">
   <iframe class="frame" src="https://contributor.r-project.org/rdevguide/" title="The R Development Guide"></iframe> 
 </div>
+The full scale version is available at <https://contributor.r-project.org/rdevguide/>.
 
 ## Community contributions
 
