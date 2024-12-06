@@ -18,7 +18,7 @@ In the first week of December 2024, Saranjeet Kaur Bhogal visited Heather Turner
 
 ## Witnessing December turning into Closember!
 
-We started the week walking through the oldest open issues and pull requests on the Dev Guide's repository and decided to tackle them as a priority. Over the week, we managed to close approximately 20 issues and 9 pull requests (not made by a bot). This included some new issues and pull requests that were opened during the week. The oldest issue that we managed to close was from 2020 and Heather did a comprehensive review of an outstanding pull request from 2022 (still not merged, but we are happy that it has been reviewed and is up to date).
+We started the week walking through the oldest open issues and pull requests on the Dev Guide's repository and decided to tackle them as a priority. Over the week, we managed to close approximately 21 issues and 10 pull requests (not made by a bot). This included some new issues and pull requests that were opened during the week. The oldest issue that we managed to close was from 2020 and Heather did a comprehensive review of an outstanding pull request from 2022 (still not merged, but we are happy that it has been reviewed and is up to date).
 
 Here's a peak into the insights from the [Dev Guide's GitHub repository](https://github.com/r-devel/rdevguide) for the week of the book dash:
 
