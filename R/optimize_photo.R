@@ -4,8 +4,8 @@ library(magick)
 library(tools)
 
 ## e.g. get all photos for a blog post
-image_dir <- file.path("blog", "2020"
-                       "southern-africa-project-2020")
+image_dir <- file.path("blog", "2024",
+                       "rdevguide")
 
 files <- dir(image_dir, pattern = "jpeg|jpg|png")
 
@@ -15,18 +15,18 @@ dir.create(out_dir, showWarnings = FALSE)
 
 for (i in seq_along(files)){
     img <- image_read(file.path(image_dir, files[i]))
-    
+
     # resize to 800 px width, using Triangle filter for resample
     img <- image_resize(img, geometry_size_pixels(width = 800),
                         filter = "Triangle")
-    
+
     # strip metadata (loses date taken, keep here)
     #img <- image_strip(img)
-    
-    image_write(img, file.path(out_dir, 
+
+    image_write(img, file.path(out_dir,
                                paste0(file_path_sans_ext(files[i]), ".jpg")),
                 format = "jpg", quality = 82)
 }
 
-# Check results - if photos have already been reduced in size, results may be 
+# Check results - if photos have already been reduced in size, results may be
 # worse! May also want to crop before over-writing originals.

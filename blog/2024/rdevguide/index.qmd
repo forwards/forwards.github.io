@@ -1,18 +1,18 @@
 ---
 title: A Book Dash for the R Development Guide
-image: "r-development-guide.jpg"
+image: "optimized/r-development-guide.jpg"
 author:
   - name: Saranjeet Kaur Bhogal
   - name: Heather Turner
 date: "2024-12-06"
 categories: [news]
-description: 'A summary of the book dash for the R Development Guide that took place 2-6 December 2024.'
+description: 'A summary of the book dash for the R Development Guide that took place from 2-6 December 2024.'
 format:
   html:
     css: styles.css
 ---
 
-This last month of 2024 started with a lot of updates to the [R Development (Dev) Guide](https://contributor.r-project.org/rdevguide/). It has been almost 4 years since the discussions about having such a guide started during useR! 2020. The guide has come a long way since then, and there some exciting updates to it.
+This last month of 2024 started with a lot of updates to the [R Development (Dev) Guide](https://contributor.r-project.org/rdevguide/). It has been almost 4 years since the discussions about having such a guide started during useR! 2020. The guide has come a long way since then, and there are some exciting updates to share!
 
 In the first week of December 2024, Saranjeet Kaur Bhogal visited Heather Turner at the University of Warwick, UK. We spent the week co-working on the R Dev Guide and managed to close quite a few old issues 🎉
 
@@ -20,7 +20,7 @@ In the first week of December 2024, Saranjeet Kaur Bhogal visited Heather Turner
 
 We started the week walking through the oldest open issues and pull requests on the Dev Guide's repository and decided to tackle them as a priority. Over the week, we managed to close approximately 21 issues and 10 pull requests (not made by a bot). This included some new issues and pull requests that were opened during the week. The oldest issue that we managed to close was from 2020 and Heather did a comprehensive review of an outstanding pull request from 2022 (still not merged, but we are happy that it has been reviewed and is up to date).
 
-Here's a peak into the insights from the [Dev Guide's GitHub repository](https://github.com/r-devel/rdevguide) for the week of the book dash:
+Here's a peek into the insights from the [Dev Guide's GitHub repository](https://github.com/r-devel/rdevguide) for the week of the book dash:
 
 ![R Dev Guide GitHub repository insights](repo_contributions.png){width=100% fig-align="left"}
 
@@ -32,7 +32,7 @@ We have always wanted to have a cover image for the R Dev Guide and we finally h
 
 ## Hello, Quarto!
 
-We thought that at some point it would be good to migrate the R Dev Guide from [Bookdown](https://bookdown.org/) to [Quarto](https://quarto.org/). We achieved this faster than expected with Ella Kaye bringing her energy and enthusiam to the task. She managed to migrate the guide to Quarto and yes, we are now live on Quarto! 
+We thought that at some point it would be good to migrate the R Dev Guide from [Bookdown](https://bookdown.org/) to [Quarto](https://quarto.org/). We achieved this faster than expected with Ella Kaye bringing her energy and enthusiasm to the task. She managed to migrate the guide to Quarto and yes, we are now live on Quarto! 
 
 Explore the Quarto version of the guide embedded below (it's scrollable and clickable - try it!) 👀
 <div class="container">
@@ -42,6 +42,6 @@ The full scale version is available at <https://contributor.r-project.org/rdevgu
 
 ## Community contributions
 
-During the week, we also had some notable contributions from the community. In particular, Cam Race and Carlos Cámara contributed to the guide remotely. Cam Race continued on the work he started during the [R Dev Day at SIP 2024](https://www.jumpingrivers.com/blog/r-dev-day-2024/) which was inspired from  contributions by Mahmoud Abdelrazek and Sarah Jaffa during the [R Hackathon at RSECon24](https://rsecon24.society-rse.org/programme/community-discovery-day/).
+During the week, we also had some notable contributions from the community. In particular, Cam Race and Carlos Cámara contributed to the guide remotely. Cam Race continued on the work he started during the [R Dev Day at SIP 2024](https://www.jumpingrivers.com/blog/r-dev-day-2024/) which was inspired from the contributions by Mahmoud Abdelrazek and Sarah Jaffa during the [R Hackathon at RSECon24](https://rsecon24.society-rse.org/programme/community-discovery-day/).
 
-Overall, it was a very productive week! We are excited to see the R Dev Guide evolve further and welcome more contributors to the project. If you are interested in contributing, check out the [Contributing guidelines](https://github.com/r-devel/rdevguide?tab=readme-ov-file#contributing) and the [good first issues on the GitHub repository](https://github.com/r-devel/rdevguide/labels/good first issue) 🚀
+Overall, it was a very productive week! We are excited to see the R Dev Guide evolve further and welcome more contributors to the project. If you are interested in contributing, check out the [contributing guidelines](https://github.com/r-devel/rdevguide?tab=readme-ov-file#contributing) and the [good first issues on the GitHub repository](https://github.com/r-devel/rdevguide/labels/good first issue) 🚀
