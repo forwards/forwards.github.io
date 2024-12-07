@@ -51,7 +51,7 @@ dir.create("blog/2023/example-blog-post")
 
 where the name of the directory defines the URL of your post.
 
-Within the subdirectory, create a new file, `index.Rmd`, with the following header
+Within the subdirectory, create a new file, `index.qmd`, with the following header
 
 ```yaml
 ---
@@ -84,7 +84,7 @@ refer them without a file path.
 
 * Update the post date.
 * Check the blog source file is within the correct year's sub-directory.
-* Set `draft:false` in the YAML header
+* Set `draft: false` in the YAML header
 * Click "Render website" on the Build tab in RStudio, or in the terminal run
 
         quarto render
