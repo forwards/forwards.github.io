@@ -20,8 +20,8 @@ Fixes #<NUM>
 
 - [ ] If you have added a new blog:
   - [ ] Did you preview it locally using `quarto render`?
-  - [ ] Is the blog  source file listed within the correct year's sub-directory?
-  - [ ] If you are using any images in the blog, are the [optimised](https://github.com/forwards/forwards.github.io?tab=readme-ov-file#optimizing-images)? There is a script available in [R/optimize_photo.R](https://github.com/forwards/forwards.github.io/blob/main/R/optimize_photo.R) to optimise the images.
+  - [ ] Is the blog source file listed within the correct year's sub-directory?
+  - [ ] If you are using any images in the blog, are they [optimised](https://github.com/forwards/forwards.github.io?tab=readme-ov-file#optimizing-images)? There is a script available in [R/optimize_photo.R](https://github.com/forwards/forwards.github.io/blob/main/R/optimize_photo.R) to optimise the images.
   - [ ] Did you go through the [Editing checklist](https://github.com/forwards/forwards.github.io/blob/main/README.md#editing-checklist)?
   - [ ] Have you set `draft: false` in the YAML header?
   - [ ] Have you updated the post date?
