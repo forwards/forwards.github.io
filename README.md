@@ -180,12 +180,13 @@ add a caption, specify alternative text as an attribute, e.g.,
 
 ### Optimizing images
 
-Please ensure image files are less than 100 KB. Images can be optimized using 
-the **magick** package - example code is provided in 
-`R/optimize_photo.R`. Consider cropping the photos (easiest 
-with photo-viewing software) to remove "empty" space, short and wide photos 
-work well, so people don't have to scroll a long way to get to the next text 
-block.
+Please ensure image files are less than ~300 KB - often images can be reduced 
+to < 100 KB if resized to the width required and saved as PNG. Images can be 
+optimized using the **magick** package - helper functions are provided in 
+`R/optimize_photo.R`, see `blog/2024/rdevguide/optimize_img.R` for example use. 
+Consider cropping the photos first (easiest with photo-viewing software) to 
+remove "empty" space, short and wide photos work well, so people don't have to 
+scroll a long way to get to the next text block.
 
 ### Icons
 
