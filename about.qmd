@@ -17,118 +17,118 @@ The members of the task force were invited to participate based on their interes
 
 - **On-ramps**: Creating paths for useRs to develop their skills and make contributions to the R/BioConductor package ecosystem.
 
-- **Social Media**: Posting to Twitter and/or Facebook, soliciting blog posts and publishing them, maintaining website.
+- **Social Media**: Posting to Mastodon (bridged to Bluesky) and LinkedIn, soliciting blog posts and publishing them, maintaining website.
 
 - **Surveys**: Running and analysing community surveys, packaging up data and tools and maintaining the [Data](https://forwards.github.io/data/) page.
 
 - **Teaching**: Methodology, materials and workshops designed for under-represented groups.
 
 
-The activities of the taskforce are recorded in the [minutes of our bimonthly core team teleconferences and alternate monthly all team slackathons](https://github.com/forwards/meetings-public). We are open to new members joining one of our sub-teams. If interested, please contact rowforwards@gmail.com.
+The activities of the taskforce are recorded in the [minutes of our team meetings](https://github.com/forwards/meetings-public). We are open to new members - if interested, please contact rowforwards@gmail.com.
 
-The task force is happy to engage with other individuals and organisations (such as [R-Ladies](http://r-ladies.org/)) that are concerned about diversity and inclusion and actively seek outside collaboration on specific tasks.
+Forwards is happy to engage with other individuals and organisations (such as [R-Ladies](http://r-ladies.org/)) that are concerned about diversity and inclusion and actively seek outside collaboration on specific tasks.
 
 
 ## Team Members
 
-[Heather Turner](https://warwick.ac.uk/statistics/staff/academic-research/turner) - ([LinkedIn](https://uk.linkedin.com/in/heathrturnr)/[Mastodon](https://fosstodon.org/@HeathrTurnr)/ [GitHub](https://github.com/hturner))
+[Mine Çetinkaya-Rundel](http://mine-cr.com/) - ([LinkedIn](https://www.linkedin.com/in/minec/)/[Bluesky](https://bsky.app/profile/minecr.bsky.social)/[Mastodon](https://fosstodon.org/@minecr)/[GitHub](https://github.com/mine-cetinkaya-rundel))
 
-[gwynn gebeyehu](http://www.nzgwynn.com/) - ([Mastodon](https://mstdn.social/@nzgwynn))/[GitHub](https://github.com/nzgwynn))
+Michael Chirico -  ([Bluesky](https://bsky.app/profile/michaelchirico.bsky.social)/[Mastodon](https://fosstodon.org/michaelchirico)/[GitHub](https://github.com/MichaelChirico))
 
-[Jonathan Godfrey](https://r-resources.massey.ac.nz/BrailleR) - (Massey University, NZ). ([Twitter](https://twitter.com/ajrgodfrey)/[GitHub](https://github.com/ajrgodfrey))
+Daniela Cialfi - ([LinkedIn](https://www.linkedin.com/in/daniela-cialfi/?originalSubdomain=it))
 
-Kevin O’Brien - ([LinkedIn](https://ie.linkedin.com/in/kobriendublin)/[Twitter](https://twitter.com/DragonflyStats)/[GitHub](https://github.com/DragonflyStats))
+[Di Cook](http://dicook.org) - ([LinkedIn](https://au.linkedin.com/in/dianne-cook-a4877a104)/[Bluesky](https://bsky.app/profile/visnut.bsky.social)/[Mastodon](https://aus.social/@visnut)/[GitHub](https://github.com/dicook))
 
-[Ella Kaye](https://ellakaye.rbind.io) - ([LinkedIn](https://www.linkedin.com/in/ella-kaye-9b878248/)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
+[Paola Corrales](https://paocorrales.github.io/) - ([Mastodon](https://fosstodon.org/deck/@paocorrales)/[GitHub](https://github.com/paocorrales))
 
-[Noa Tamir](https://forwards.github.io/about/noatamir.com) - ([LinkedIn](https://www.linkedin.com/in/noatamir)/[Twitter](https://twitter.com/noatamir)/[GitHub](https://github.com/noatamir))
+Zane Dax - ([GitHub](https://github.com/PythonCoderUnicorn))
 
-Saranjeet Kaur Bhogal -  ([LinkedIn](https://www.linkedin.com/in/saranjeet-kaur-48ab769b/)/[Twitter](https://twitter.com/qwertyquesting/)/[GitHub](https://github.com/SaranjeetKaur))
+[gwynn gebeyehu](http://www.nzgwynn.com/) - ([Mastodon](https://mstdn.social/@nzgwynn)/[GitHub](https://github.com/nzgwynn))
 
-[Emma Rand](https://www.york.ac.uk/biology/our-staff/emma-rand/) - ([LinkedIn](https://www.linkedin.com/in/emma-rand-6b0a61a/)/[Twitter](https://twitter.com/er13_r)/[GitHub](https://github.com/3mmaRand))
+[Jonathan Godfrey](https://r-resources.massey.ac.nz/BrailleR) - ([GitHub](https://github.com/ajrgodfrey))
 
-Zane Dax -  ([Twitter](https://twitter.com/startrek_lt/)/[GitHub](https://github.com/PythonCoderUnicorn))
+[Julie Josse](http://juliejosse.com/) -  ([LinkedIn](https://www.linkedin.com/in/julie-josse-4886a2140/)/[GitHub](https://github.com/julierennes))
 
-[Liz Hare](http://www.doggenetics.com) - ([LinkedIn](https://www.linkedin.com/in/liz-hare-1a50925/)/[Mastodon](https://mstdn.social/@lizhare@fosstodon.org)/[GitHub](https://github.com/LizHareDogs))
+Saranjeet Kaur Bhogal -  ([LinkedIn](https://www.linkedin.com/in/saranjeet-kaur-48ab769b/)/[Bluesky](https://bsky.app/profile/saranjeet.fosstodon.org.ap.brid.gy)/[Mastodon](https://fosstodon.org/@saranjeet)/[GitHub](https://github.com/SaranjeetKaur))
 
-[Julie Josse](http://juliejosse.com/) -  ([LinkedIn](https://www.linkedin.com/in/julie-josse-4886a2140/)/[Twitter](https://twitter.com/JulieJosseStat)/[GitHub](https://github.com/julierennes))
+[Ella Kaye](https://ellakaye.co.uk) - ([LinkedIn](https://www.linkedin.com/in/ella-kaye-9b878248/)/[Bluesky](https://bsky.app/profile/ellakaye.co.uk)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
 
-Michael Chirico -  ([Twitter](https://twitter.com/michael_chirico)/[GitHub](https://github.com/MichaelChirico))
+Michael Lawrence - ([LinkedIn](https://www.linkedin.com/in/michael-lawrence-74a9b482/)/[GitHub](https://github.com/lawremi))
 
-Daniela Cialfi - ([LinkedIn](https://www.linkedin.com/in/daniela-cialfi/?originalSubdomain=it)
+[Mohammed A Mohammed](https://www.strategyunitwm.nhs.uk/author/mohammed-amin-mohammed)
 
-Michael Lawrence - ([LinkedIn](https://www.linkedin.com/in/michael-lawrence-74a9b482/)/[Twitter](https://twitter.com/lawremi)/[GitHub](https://github.com/lawremi))
+Kevin O’Brien - ([LinkedIn](https://ie.linkedin.com/in/kobriendublin)/[Bluesky](https://bsky.app/profile/kobriendublin.bsky.social)/[Mastodon](https://fosstodon.org/@kobriendublin)/[GitHub](https://github.com/DragonflyStats))
 
+Maria Prokofieva - ([LinkedIn](https://www.linkedin.com/in/mariapr/)/[Mastodon](https://fosstodon.org/@maria_pro)/[GitHub](https://github.com/maria-pro))
 
-[Paola Corrales](https://paocorrales.github.io/) - ([Twitter](https://twitter.com/paobcorrales?lang=en)/[GitHub](https://github.com/paocorrales))
-
-[Di Cook](http://dicook.org) - ([LinkedIn](https://au.linkedin.com/in/dianne-cook-a4877a104)/[Twitter](https://twitter.com/visnut)/[GitHub](https://github.com/dicook))
-
-
-[Isabella Gollini](https://sites.google.com/site/isabellagollini/) - ([LinkedIn](https://www.linkedin.com/in/isabellagollini/)/[Twitter](https://twitter.com/IsabellaGollini)/[GitHub](https://github.com/igollini))
-
-
-[Mine Çetinkaya-Rundel](http://mine-cr.com/) - ([LinkedIn](https://www.linkedin.com/in/minec/)/[Twitter](https://twitter.com/minebocek)/[GitHub](https://github.com/mine-cetinkaya-rundel))
-
-
-Maria Prokofieva - ([LinkedIn](https://www.linkedin.com/in/mariapr/)/[Twitter](https://twitter.com/m45hap)/[GitHub](https://github.com/maria-pro))
+[Emma Rand](https://www.york.ac.uk/biology/our-staff/emma-rand/) - ([LinkedIn](https://www.linkedin.com/in/emma-rand-6b0a61a/)/[Bluesky](https://bsky.app/profile/3mmarand.bsky.social)/[Mastodon](https://fosstodon.org/@3mma@mastodon.social)/[GitHub](https://github.com/3mmaRand))
 
 [Joyce Robbins](http://www.joyce-robbins.com/about/) - ([LinkedIn](https://www.linkedin.com/in/joycerobbins/)/[Twitter](https://twitter.com/jtrnyc)/[GitHub](https://github.com/jtr13))
+
+Dillon Sparks - ([LinkedIn](https://www.linkedin.com/in/dillonsparks1/)/[GitHub](https://github.com/dillonsparks))
+
+[Heather Turner](https://warwick.ac.uk/statistics/staff/academic-research/turner) - ([LinkedIn](https://uk.linkedin.com/in/heathrturnr)/[Bluesky](https://bsky.app/profile/HeathrTurnr.fosstodon.org.ap.brid.gy)/[Mastodon](https://fosstodon.org/@HeathrTurnr)/ [GitHub](https://github.com/hturner))
 
 
 ## Previous Members
 
-Claudia Huaylla  
-Andrea Sánchez-Tapia  
-Samantha Toet   
-Yanina Bellini Saibene   
-Jyoti Bhogal   
-Ritwik Mitra  
-Emily Dodwell   
-Allison Vuong    
-Becca Wilson   
-Anna Vasylytsya    
-Nujcharee Haswell   
-Pavitra Chakravarty    
-Maya Gans   
-Miljenka Vuko    
-Imke Mayer   
-Florencia Mangini    
-Joslynn Lee   
-Damiano Cerasuolo   
-Tania Allard   
-Tatjana Kecojevic   
-Richard Ngamita 
+We are grateful to everyone who has previously been a member of Forwards:
 
-Lorna Maria Aine
+<!-- end lines with , and one space so easier to maintain alphabetical order, 
+but display in paragraph -->
 
-Stella Bollman    
-Jenny Bryan    
-Nic Crane  
-Rudolf Debelak  
-John Fox  
-Jasmine Dumas  
-Andrea Foulkes  
-Gina Griffin  
-Madlene Hamilton  
-Zhian N. Kamvar  
-Liz Kellogg  
-Os Keyes  
-Angela Li  
-Gina Merchant  
-David Meza  
-Ileena Mitra  
-Jesse Mostipak  
-Shakirah Nakalungi  
-Wenfeng Qin  
-Augustina Ragwitz  
-Maëlle Salmon  
-Dorris Scott  
-Tracy Shen  
-David Smith  
-Carolin Strobl  
-Charlotte Wickham  
-Hadley Wickham  
+Lorna Maria Aine, 
+Tania Allard, 
+Yanina Bellini Saibene, 
+Jyoti Bhogal, 
+Stella Bollman, 
+Jenny Bryan, 
+Damiano Cerasuolo, 
+Pavitra Chakravarty, 
+Nic Crane, 
+Rudolf Debelak, 
+Emily Dodwell, 
+Jasmine Dumas, 
+Andrea Foulkes, 
+John Fox, 
+Maya Gans, 
+Isabella Gollini, 
+Gina Griffin, 
+Madlene Hamilton, 
+Liz Hare, 
+Nujcharee Haswell, 
+Claudia Huaylla, 
+Zhian N. Kamvar, 
+Tatjana Kecojevic, 
+Liz Kellogg, 
+Os Keyes, 
+Joslynn Lee, 
+Angela Li, 
+Florencia Mangini, 
+Imke Mayer, 
+Gina Merchant, 
+David Meza, 
+Ileena Mitra, 
+Ritwik Mitra, 
+Jesse Mostipak, 
+Shakirah Nakalungi, 
+Richard Ngamita, 
+Wenfeng Qin, 
+Augustina Ragwitz, 
+Maëlle Salmon, 
+Andrea Sánchez-Tapia, 
+Dorris Scott, 
+Tracy Shen, 
+David Smith, 
+Carolin Strobl, 
+Noa Tamir, 
+Samantha Toet, 
+Anna Vasylytsya, 
+Miljenka Vuko, 
+Allison Vuong, 
+Charlotte Wickham, 
+Hadley Wickham, 
+Becca Wilson, 
 Yizhe Xu
 
 
