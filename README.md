@@ -46,12 +46,12 @@ There are currently three  different types of content on the website:
 To start a new blog post, create a new directory in the relevant years' directory, e.g. 
 
 ```r
-dir.create("blog/2023/example-blog-post")
+dir.create("blog/2023/example-blog-post", recursive = TRUE)
 ```
 
 where the name of the directory defines the URL of your post.
 
-Within the subdirectory, create a new file, `index.Rmd`, with the following header
+Within the subdirectory, create a new file, `index.qmd`, with the following header
 
 ```yaml
 ---

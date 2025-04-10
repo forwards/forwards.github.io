@@ -1,0 +1,66 @@
+---
+title: R Dev Days 2025
+author:
+  - name: Heather Turner
+date: "2025-04-10"
+categories: [news, community]
+description: "Upcoming deadlines to join an R Dev Day and collaborate on contributions to the code, documentation and translations in base R"
+draft: false
+---
+
+R Dev Days are events for novice and experienced contributors to 
+collaborate on contributions to the code, documentation and translations in 
+base R. There are several planned in the coming months with 
+application/registration deadlines in the next couple of weeks - don't miss out!
+
+![A small group at the R Dev Day after useR! 2024](css_group.jpg){width="60%" fig-align="left" fig-alt="Participants sitting around a desk with their laptops at an R Dev Day, turning to smile at the camera. The group appears to be predominantly women of multiple nationalities and one of the group may be recognised as the well-known R developer, Hadley Wickham."}
+
+## Upcoming events
+
+The table below summarises the events with close deadlines:
+
+|          Satellite to         |       Where      | Date |   Deadline  |
+|:-----------------------------:|:----------------:|:-------------:|:---------:|
+| [Rencontres R 2025 (19-21 May)](https://pretix.eu/r-contributors/r-dev-day-rr2025/) | Mons, Belgium    | Thu 22 May  | Fri 18 Apr |
+| [useR! 2025 (8-10 Aug)](https://user2025.r-project.org/additional/r-dev-day)         | Durham, NC, USA  | Mon 11 Aug    | Tue 15 Apr |
+| [RSECon25 (9-11 Sep)](https://warwick.ac.uk/fac/sci/statistics/news/r-dev-day-rsecon25) | Warwick, UK      | Fri 12 Sep    | Wed 23 Apr |
+
+There may be further events later in the year - for the latest information, see 
+the [R Dev Days](https://contributor.r-project.org/events/r-dev-days/) page on 
+the R Contributors website. R Dev Days are also publicised on the 
+[R-devel mailing list](https://stat.ethz.ch/mailman/listinfo/r-devel), the 
+R Contributor [Mastodon](https://hachyderm.io/@R_Contributors), 
+[Bluesky](https://bsky.app/profile/R-Contributors.hachyderm.io.ap.brid.gy) and 
+[Meetup](https://www.meetup.com/R-Contributors/)
+accounts, and the 
+[R Foundation LinkedIn](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/)!
+
+## How do R Dev Days work?
+
+Tasks are prepared in the run-up to the event, where external contribution is 
+welcome and good progress can be made in a day. Often this will be
+reviewing, analysing and/or fixing code or documentation bugs reported on R’s 
+[Bugzilla](https://bugs.r-project.org), or translating message strings from 
+English to other languages via
+[Weblate](https://translate.rx.studio/projects/r-project/). You can see 
+examples of tasks on the [r-dev-day repo](https://github.com/r-devel/r-dev-day/issues).
+
+Participants express interest in tasks prior to the event or at the start of 
+the day. This helps to allocate people into small groups that work on one or 
+two issues for the rest of the day. At the end of the day, the groups report 
+progress on their task and any next steps required.
+
+![Two participants discuss their work with R Core developer Martin Mächler](stem_group.jpg){width="60%" fig-align="left" fig-alt="R Core developer Martin Mächler working with Ella Kaye and Kelly Bodwin at an R Dev Day"}
+
+## Are R Dev Days for you?
+
+R Dev Days are aimed at people with a good knowledge of R programming that 
+are keen to contribute back to the core codebase. Most participants will be 
+comfortable writing and debugging R functions, writing help pages and using 
+version control. Further expertise, such as competency in C programming or 
+advanced knowledge of statistical methods, can certainly be useful, but is not 
+necessary for all tasks.
+
+Part of the objective is to foster a more diverse community of contributors, 
+so anyone that identifies as part of an underrepresented group is 
+particularly encouraged to apply!
