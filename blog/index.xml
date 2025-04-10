@@ -9,8 +9,87 @@
 <link>https://forwards.github.io/blog/</link>
 <atom:link href="https://forwards.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>R Foundation taskforce on women and other under-represented groups.</description>
-<generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 06 Dec 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Thu, 10 Apr 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>R Dev Days 2025</title>
+  <dc:creator>Heather Turner</dc:creator>
+  <link>https://forwards.github.io/blog/2025/r-dev-days/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>R Dev Days are events for novice and experienced contributors to collaborate on contributions to the code, documentation and translations in base R. There are several planned in the coming months with application/registration deadlines in the next couple of weeks - don’t miss out!</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://forwards.github.io/blog/2025/r-dev-days/css_group.jpg" class="img-fluid figure-img" style="width:60.0%" alt="Participants sitting around a desk with their laptops at an R Dev Day, turning to smile at the camera. The group appears to be predominantly women of multiple nationalities and one of the group may be recognised as the well-known R developer, Hadley Wickham."></p>
+<figcaption>A small group at the R Dev Day after useR! 2024</figcaption>
+</figure>
+</div>
+<section id="upcoming-events" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming-events">Upcoming events</h2>
+<p>The table below summarises the events with close deadlines:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Satellite to</th>
+<th style="text-align: center;">Where</th>
+<th style="text-align: center;">Date</th>
+<th style="text-align: center;">Deadline</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><a href="https://pretix.eu/r-contributors/r-dev-day-rr2025/">Rencontres R 2025 (19-21 May)</a></td>
+<td style="text-align: center;">Mons, Belgium</td>
+<td style="text-align: center;">Thu 22 May</td>
+<td style="text-align: center;">Fri 18 Apr</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><a href="https://user2025.r-project.org/additional/r-dev-day">useR! 2025 (8-10 Aug)</a></td>
+<td style="text-align: center;">Durham, NC, USA</td>
+<td style="text-align: center;">Mon 11 Aug</td>
+<td style="text-align: center;">Tue 15 Apr</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><a href="https://warwick.ac.uk/fac/sci/statistics/news/r-dev-day-rsecon25">RSECon25 (9-11 Sep)</a></td>
+<td style="text-align: center;">Warwick, UK</td>
+<td style="text-align: center;">Fri 12 Sep</td>
+<td style="text-align: center;">Wed 23 Apr</td>
+</tr>
+</tbody>
+</table>
+<p>There may be further events later in the year - for the latest information, see the <a href="https://contributor.r-project.org/events/r-dev-days/">R Dev Days</a> page on the R Contributors website. R Dev Days are also publicised on the <a href="https://stat.ethz.ch/mailman/listinfo/r-devel">R-devel mailing list</a>, the R Contributor <a href="https://hachyderm.io/@R_Contributors">Mastodon</a>, <a href="https://bsky.app/profile/R-Contributors.hachyderm.io.ap.brid.gy">Bluesky</a> and <a href="https://www.meetup.com/R-Contributors/">Meetup</a> accounts, and the <a href="https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/">R Foundation LinkedIn</a>!</p>
+</section>
+<section id="how-do-r-dev-days-work" class="level2">
+<h2 class="anchored" data-anchor-id="how-do-r-dev-days-work">How do R Dev Days work?</h2>
+<p>Tasks are prepared in the run-up to the event, where external contribution is welcome and good progress can be made in a day. Often this will be reviewing, analysing and/or fixing code or documentation bugs reported on R’s <a href="https://bugs.r-project.org">Bugzilla</a>, or translating message strings from English to other languages via <a href="https://translate.rx.studio/projects/r-project/">Weblate</a>. You can see examples of tasks on the <a href="https://github.com/r-devel/r-dev-day/issues">r-dev-day repo</a>.</p>
+<p>Participants express interest in tasks prior to the event or at the start of the day. This helps to allocate people into small groups that work on one or two issues for the rest of the day. At the end of the day, the groups report progress on their task and any next steps required.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://forwards.github.io/blog/2025/r-dev-days/stem_group.jpg" class="img-fluid figure-img" style="width:60.0%" alt="R Core developer Martin Mächler working with Ella Kaye and Kelly Bodwin at an R Dev Day"></p>
+<figcaption>Two participants discuss their work with R Core developer Martin Mächler</figcaption>
+</figure>
+</div>
+</section>
+<section id="are-r-dev-days-for-you" class="level2">
+<h2 class="anchored" data-anchor-id="are-r-dev-days-for-you">Are R Dev Days for you?</h2>
+<p>R Dev Days are aimed at people with a good knowledge of R programming that are keen to contribute back to the core codebase. Most participants will be comfortable writing and debugging R functions, writing help pages and using version control. Further expertise, such as competency in C programming or advanced knowledge of statistical methods, can certainly be useful, but is not necessary for all tasks.</p>
+<p>Part of the objective is to foster a more diverse community of contributors, so anyone that identifies as part of an underrepresented group is particularly encouraged to apply!</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>community</category>
+  <guid>https://forwards.github.io/blog/2025/r-dev-days/</guid>
+  <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>A Book Dash for the R Development Guide</title>
   <dc:creator>Saranjeet Kaur Bhogal</dc:creator>
