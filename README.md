@@ -84,7 +84,7 @@ refer them without a file path.
 
 * Update the post date.
 * Check the blog source file is within the correct year's sub-directory.
-* Set `draft:false` in the YAML header
+* Set `draft: false` in the YAML header
 * Click "Render website" on the Build tab in RStudio, or in the terminal run
 
         quarto render
