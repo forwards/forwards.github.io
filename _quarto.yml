@@ -79,8 +79,8 @@ website:
 format:
   html:
     theme:  
-      light: forwards.scss
-      dark: [darkly, theme-dark.scss] #cosmo
+      light: forwards-light.scss
+      dark: forwards-dark.scss
     css: styles.css
     toc: true  
     email-obfuscation: references
