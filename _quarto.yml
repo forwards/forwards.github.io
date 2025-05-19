@@ -79,7 +79,7 @@ website:
 format:
   html:
     theme:  
-      light: cosmo
+      light: forwards.scss
       dark: [darkly, theme-dark.scss] #cosmo
     css: styles.css
     toc: true  
