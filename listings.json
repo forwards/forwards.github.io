@@ -2,6 +2,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/2025/package-dev-workshops/index.html",
       "/blog/2025/r-dev-days/index.html",
       "/blog/2024/rdevguide/index.html",
       "/blog/2024/website-relaunch/index.html",
@@ -24,6 +25,7 @@
   {
     "listing": "/edu/index.html",
     "items": [
+      "/blog/2025/package-dev-workshops/index.html",
       "/blog/2017/girls-coding-workshop-melbourne/index.html",
       "/blog/2018/havanar/index.html",
       "/blog/2019/rladies-charlottesville-workshop-recap/index.html",
