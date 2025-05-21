@@ -1,0 +1,22 @@
+---
+title: Forwards To Offer R Package Development Workshops Online
+author:
+  - name: Joyce Robbins
+date: "2025-05-20"
+categories: [news, community, teaching, training, education]
+description: "During June and July, five session workshops will be offered in two series to accommodate different time zones."
+draft: true
+---
+
+The [Forwards](https://forwards.github.io/) teaching team is hosting two workshop series beginning next month to teach participants how to build their own R packages. No prior package building experience is required. The course consists of five 90-minute sessions held biweekly, and will cover core topics such as the structure of R packages, writing and documenting functions, managing dependencies, writing tests, checking packages for errors, and preparing them for distribution on platforms like CRAN or GitHub. Participants will also learn how to package datasets for use within their packages.
+
+Two cohorts are being offered to accommodate different time zones. [Cohort 1]( https://forwards.github.io/package-dev/workshops/summer-2025-cohort-1.html) meets every other Monday starting June 2, from 09:00 to 10:30 UTC and will be taught by Pao Corrales and Ella Kaye. [Cohort 2]( https://forwards.github.io/package-dev/workshops/summer-2025-cohort-1.html) meets every other Tuesday starting June 3, from 14:30 to 16:00 UTC and will be led by Emma Rand, Joyce Robbins, and Heather Turner. 
+
+More information on the content of each session as well as links to register are available on Forwards’ newly revamped [R Package Development Workshop](https://forwards.github.io/package-dev/workshops.html) web site. Note that the modules were designed to be used with or without an accompanying workshop, so learners may choose to work through the material on their own.
+
+The workshop materials were developed by Forwards, an R Consortium task force focused on supporting underrepresented groups in the R ecosystem. The sessions will be interactive and hands-on, making use of practical exercises and guided development. 
+
+The initiative reflects Forwards’ ongoing commitment to making R more accessible and inclusive, and offers a valuable opportunity for members of the community to gain practical experience in package development with support from experienced mentors.
+
+![Forwards logo](logo.png)
+
