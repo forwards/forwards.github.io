@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="mastodon-timeline.min.css" />
+<script src="mastodon-timeline.umd.js"></script>
+<script>const myTimeline = new MastodonTimeline.Init();</script>
+
+<div id="mt-container" class="mt-container">
+  <div class="mt-body" role="feed">
+    <div class="mt-loading-spinner"></div>
+  </div>
+</div>
