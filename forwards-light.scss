@@ -60,18 +60,6 @@ $callout-color-important: $red;
   color: $primary;
 }
 
-#quarto-header > nav > div > div.navbar-brand-container.mx-auto > a:hover {
-  color: $orange;
-}
-
-#navbarCollapse > ul > li > a:hover {
-  color: $orange;
-}
-
-#navbarCollapse > ul > li > a.active {
-  color: $orange;
-}
-
 // code
 pre.sourceCode {
   border-radius: 0;
@@ -137,50 +125,31 @@ iframe.slide-deck {
     --mt-color-bg-hover:#{$darkpurple10} !important; 
 }
 
-.navbar-nav .dropdown-menu .dropdown-item:hover {
+// navbar
+#quarto-header > nav > div > div.navbar-brand-container.mx-auto > a:hover {
+  color: $orange;
+}
+
+#navbarCollapse > ul > li > a:hover,
+#navbarCollapse > ul > li > a.active {
+  color: $orange;
+}
+
+// bg-color on dropdown menu and tool items
+.navbar-nav .dropdown-menu .dropdown-item:hover,
+.dropdown-item.quarto-navbar-tools-item:hover{
     background-color: $darkpurple10;
 }
 
-.dropdown-item.quarto-navbar-tools-item:hover {
-    background-color: $darkpurple10;
-}
-
-/* Keep dropdown toggle orange when dropdown is open and items are being hovered */
+/* All dropdown toggles - hover, open, and focus states */
+.navbar-nav .dropdown-toggle:hover,
 .navbar-nav .dropdown.show .dropdown-toggle,
-.navbar-nav .dropdown:hover .dropdown-toggle {
-    color: $orange !important;
-}
-
-/* Tools dropdown toggle hover - make it orange */
+.navbar-nav .dropdown:hover .dropdown-toggle,
 .quarto-navbar-tools .dropdown-toggle:hover,
-.quarto-navbar-tools a.dropdown-toggle:hover {
-    color: $orange !important;
-}
-
-/* Keep tools dropdown toggle orange when dropdown is open and you're hovering items */
 .quarto-navbar-tools.show .dropdown-toggle,
 .quarto-navbar-tools:hover .dropdown-toggle,
-.quarto-navbar-tools .dropdown.show .dropdown-toggle {
-    color: $orange !important;
-}
-
-/* Force regular navbar dropdown toggle to stay orange when open */
-.navbar-nav .nav-item.dropdown.show > .nav-link.dropdown-toggle,
-.navbar-nav .nav-item.dropdown.show > .dropdown-toggle,
-.navbar-nav .dropdown.show > .dropdown-toggle {
-    color: $orange !important;
-}
-
-/* Force tools dropdown toggle to stay orange when open */
-.quarto-navbar-tools.show > .dropdown-toggle,
-.quarto-navbar-tools.show > a.dropdown-toggle,
-div[class*="quarto-navbar-tools"].show > a,
-div[class*="quarto-navbar-tools"][aria-expanded="true"] > a {
-    color: $orange !important;
-}
-
-/* Catch any focus states that might be interfering */
+.quarto-navbar-tools .dropdown.show .dropdown-toggle,
 .dropdown-toggle:focus,
 .dropdown-toggle.show:focus {
-    color: $orange !important;
+  color: $orange !important;
 }
