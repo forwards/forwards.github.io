@@ -82,3 +82,11 @@ div.callout.callout-style-default.callout-caution.callout-titled > div.callout-h
     --mt-color-bg: #{$verydarkpurple} !important; 
     --mt-color-bg-hover:#{$darkpurple} !important; 
 }
+
+.navbar-nav .dropdown-menu .dropdown-item:hover {
+    background-color: $darkpurple;
+}
+
+.dropdown-item.quarto-navbar-tools-item:hover {
+    background-color: $darkpurple;
+}
