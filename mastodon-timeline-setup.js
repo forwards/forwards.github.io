@@ -132,4 +132,4 @@ const myTimeline = new MastodonTimeline.Init({
         }
 
         // Initialize theme synchronization when the timeline is ready
-        setTimeout(setupThemeSync, 1000);
+        setTimeout(setupThemeSync, 100);
