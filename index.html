@@ -388,6 +388,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#mission" id="toc-mission" class="nav-link active" data-scroll-target="#mission">Mission</a></li>
+  <li><a href="#mastodon-posts" id="toc-mastodon-posts" class="nav-link" data-scroll-target="#mastodon-posts">Mastodon posts</a></li>
   </ul>
 </nav>
     </div>
@@ -423,29 +424,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="mission">Mission</h2>
 <p>Leading the R community forwards in widening the participation of women and other under-represented groups.</p>
 <p>Find out more <a href="about.html">about</a> the task force.</p>
-<!-- responsive two column layout 
-- one column switching to two columns on large screens and above  -->
 </section>
-<div class="grid">
-<section id="news" class="level2 g-col-12 g-col-lg-6">
-<h2 class="anchored" data-anchor-id="news">News</h2>
-<p><em>For more details on past workshops, see the <a href="edu">Edu</a> section.</em></p>
-<p><em>2023-11-18, Montevideo, Uruguay</em> - Yanina Bellini Saibene co-chairs <a href="https://latin-r.com/">LatinR2022</a>, which includes a keynote by Di Cook, a lightning talk by Pao Corrales on contributing translations to R and a contribution space for working on translations.</p>
-<p><em>2023-11-16</em> - RainbowR launch a <a href="https://rainbowr.netlify.app/posts/2023-11-16_introducing-buddies/">pilot buddy scheme</a> to foster stronger connections between community members.</p>
-<p><em>2023-11-16</em> - Heather Turner gives a keynote on <a href="https://hturner.github.io/IIConferenceOfR/">Contributing to R</a> at the II Conference of R (Spanish R Users conference) in Barcelona.</p>
-<p><em>2023-11-09</em> - Di Cook, Heather Turner and Jonathan Godfrey obtain grant from R Consortium to support adding alt text to R Journal articles.</p>
-<p><em>2023-11-06</em> - Kevin O’Brien starts a monthly community call for organizers of R User Groups, see the <a href="https://www.meetup.com/globalr/">Global R User Group</a> meetup.</p>
-<p><em>2023-08-29</em> - Several Forwards members participate in <a href="https://contributor.r-project.org/r-project-sprint-2023/">R Project Sprint 2023</a>, an event to encourage broader participation in contributing to base R.</p>
-<p><em>2023-05-29</em> - Di Cook co-mentors Abhishek Ulayil on second Google Summer of Code project on <a href="https://github.com/rstats-gsoc/gsoc2023/wiki/Converting-R-Journal-latex-documents-to-Rmarkdown-with-texor">Converting past R Journal articles to HTML</a>.</p>
-<p><em>2023-04-22</em> - Ella Kaye and Heather Turner give talk on <a href="https://www.youtube.com/watch?v=yW6kRqktYQU">Sustainability and EDI in the R Project</a> at satRdays London 2023.</p>
-<p><em>2022-10-12, Online</em> - Yanina Bellini Saibene co-chairs <a href="https://latin-r.com/">LatinR2022</a>, which includes <a href="https://www.youtube.com/watch?v=5LURMdf1Uk8">R translatón/Hackaton de tradução do R</a>.</p>
-<p><em>2022-10-10</em> - Liz Hare talks to R-Ladies NYC about <a href="https://lizharedogs.github.io/RLadiesNYAltText/#1">Writing Meaningful Alt-Texts for Data Visualizations in R</a>.</p>
-<p><em>2022-08-01</em> - Yanina Bellini Saibene gives a keynote at CarpentryCon 2022 on <a href="https://yabellini.netlify.app/talk/keynote_carpentrycon_2022/">Achieving the change we want one conference at a time</a>.</p>
-<p><em>2022-08-08</em> - gwynn sturdevant and Jonathan Godfrey join panel at JSM 2022 on <a href="https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=319247">Delivering Data Differently</a>.</p>
-<p><em>2022-08-06</em> - Kevin O’Brien and Sam Toet help organize the first <a href="https://satrdays.org/blog/2022/07/20/2022-francophone/">Francophone satRday</a>.</p>
-<p><a href="oldnews">older news items</a></p>
-</section>
-<section id="mastodon-posts" class="level2 g-col-12 g-col-lg-6">
+<section id="mastodon-posts" class="level2">
 <h2 class="anchored" data-anchor-id="mastodon-posts">Mastodon posts</h2>
 <!-- 
 Mastodon widget from https://gitlab.com/idotj/mastodon-embed-feed-timeline
@@ -453,17 +433,17 @@ Mastodon widget from https://gitlab.com/idotj/mastodon-embed-feed-timeline
  - height of mt-container set in mastodon-timeline.css 
  (if max toots greater than height, will add scroll bar)
  -->
-<link rel="stylesheet" href="mastodon-timeline.css">
-<script src="mastodon-timeline.js"></script>
-<div class="mt-container">
-<div id="mt-body" class="mt-body" role="feed">
-<pre><code>&lt;div class="loading-spinner"&gt;&lt;/div&gt;</code></pre>
+<link rel="stylesheet" href="mastodon-timeline.min.css">
+<script src="mastodon-timeline.umd.js"></script>
+<div id="mt-container" class="mt-container">
+<div class="mt-body" role="feed">
+<pre><code>&lt;div class="mt-loading-spinner"&gt;&lt;/div&gt;</code></pre>
 </div>
 </div>
+<script src="mastodon-timeline-setup.js"></script>
+
+
 </section>
-</div>
-
-
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
