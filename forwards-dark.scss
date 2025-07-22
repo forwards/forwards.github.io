@@ -77,3 +77,8 @@ div.callout.callout-style-default.callout-caution.callout-titled > div.callout-h
 .callout-title p { 
   color: $white !important; 
 }
+
+.mt-container[data-theme=dark] {
+    --mt-color-bg: #{$verydarkpurple} !important; 
+    --mt-color-bg-hover:#{$darkpurple} !important; 
+}
