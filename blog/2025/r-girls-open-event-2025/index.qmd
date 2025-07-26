@@ -5,7 +5,7 @@ author:
   - name: Ella Kaye
 date: "2025-07-26"
 categories: [community]
-description: "Report of the R Girls Open Event 2025."
+description: "Report of the Data Science for Girls open event 2025."
 draft: true
 ---
 
@@ -17,7 +17,7 @@ July 9 2025. They joined other guests from [Ascent](https://www.ascent.io/)
 and [Health Data Research UK](https://www.hdruk.ac.uk/about-us/) to 
 find out how students at this girls' school have been using R.
 
-![From left to right: Yanica Said (Ascent), Heather Turner (Forwards), ?? (Teacher), Razia Ghani (Head Teacher), and Ella Kaye (Forwards) at the R Girls Open Event](group_photo.jpg)
+![From left to right: Yanica Said (Ascent), Heather Turner (Forwards), ?? (Teacher), Razia Ghani (Head Teacher), and Ella Kaye (Forwards) at the R Girls Open Event](group_photo.jpeg)
 
 Below Heather and Ella report on this event.
 
@@ -59,6 +59,7 @@ Overall, we were happy to see the enthusiasm from both staff and students
 in using R to support the girls' studies. There is a lot of pride in this 
 activity, as demonstrated by the display that greets you when you walk in:
 
-![The R Girls display right inside the main entrance](r_girls_display.jpeg){fig-alt:"A noticeboard visible on the facing wall, looking through an open door. On the board, a display with a flowery border, titled 'R-Girls Schools Network', followed by the pink R Girls logo. The display has examples of code and graphs, plus large text boxes with information.}
+![The R Girls display right inside the main entrance](r_girls_display.jpeg){fig-alt="A noticeboard visible on the facing wall, looking through an open door. On the board, a display with a flowery border, titled 'R-Girls Schools Network', followed by the pink R Girls logo. The display has examples of code and graphs, plus large text boxes with information."}
+
 Hopefully this experience gives the girls a positive view about using R or 
 other languages, that they can build on in the future.

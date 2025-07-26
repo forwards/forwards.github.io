@@ -11,6 +11,7 @@ execute:
   freeze: auto
 
 website:
+  draft-mode: unlinked
   title: "Forwards"
   site-url: https://forwards.github.io/
   favicon: "favicon-32x32.png"
@@ -73,7 +74,6 @@ website:
             url: https://github.com/forwards/forwards.github.io
           - text: Report a Bug
             url: https://github.com/forwards/forwards.github.io/issues
-   
     search: true
 
 format:
