@@ -26,7 +26,7 @@ website:
       © 2024 Forwards, under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.<br>
       
   navbar:
-    logo:  /images/forwards.svg
+    logo:  /images/forwards_hex_solid_border.png
     logo-href: /index.html
     left: 
       # - menu: 
@@ -79,8 +79,9 @@ website:
 format:
   html:
     theme:  
-      light: cosmo
-      dark: [darkly, theme-dark.scss] #cosmo
+      light: forwards-light.scss
+      dark: forwards-dark.scss
+    highlight-style: forwards.theme
     css: styles.css
     toc: true  
     email-obfuscation: references

@@ -3,6 +3,41 @@ title: Archive
 description: Old news items related to Forwards.
 ---
 
+*Last updated: 2023-11-18*
+
+*For more details on past workshops, see the [Edu](edu) section.*
+
+*2023-11-18, Montevideo, Uruguay* - Yanina Bellini Saibene co-chairs [LatinR2022](https://latin-r.com/), which includes a keynote by Di Cook, a lightning talk by Pao Corrales on contributing translations to R and a 
+contribution space for working on translations.
+
+*2023-11-16* - RainbowR launch a [pilot buddy scheme](https://rainbowr.netlify.app/posts/2023-11-16_introducing-buddies/) to foster stronger connections between community members.
+
+*2023-11-16* - Heather Turner gives a keynote on 
+[Contributing to R](https://hturner.github.io/IIConferenceOfR/) at the 
+II Conference of R (Spanish R Users conference) in Barcelona.
+
+*2023-11-09* - Di Cook, Heather Turner and Jonathan Godfrey obtain grant from R 
+Consortium to support adding alt text to R Journal articles.
+
+*2023-11-06* - Kevin O'Brien starts a monthly community call for organizers 
+of R User Groups, see the [Global R User Group](https://www.meetup.com/globalr/) meetup.
+
+*2023-08-29* - Several Forwards members participate in [R Project Sprint 2023](https://contributor.r-project.org/r-project-sprint-2023/), an event to 
+encourage broader participation in contributing to base R.
+
+*2023-05-29* - Di Cook co-mentors Abhishek Ulayil on second Google Summer of Code project on [Converting past R Journal articles to HTML](https://github.com/rstats-gsoc/gsoc2023/wiki/Converting-R-Journal-latex-documents-to-Rmarkdown-with-texor).
+
+*2023-04-22* - Ella Kaye and Heather Turner give talk on [Sustainability and EDI in the R Project](https://www.youtube.com/watch?v=yW6kRqktYQU) at satRdays London 2023.
+
+*2022-10-12, Online* - Yanina Bellini Saibene co-chairs [LatinR2022](https://latin-r.com/), which includes [R translatón/Hackaton de tradução do R](https://www.youtube.com/watch?v=5LURMdf1Uk8).
+
+*2022-10-10* - Liz Hare talks to R-Ladies NYC about [Writing Meaningful Alt-Texts for Data Visualizations in R](https://lizharedogs.github.io/RLadiesNYAltText/#1).
+
+*2022-08-01* - Yanina Bellini Saibene gives a keynote at CarpentryCon 2022 on [Achieving the change we want one conference at a time](https://yabellini.netlify.app/talk/keynote_carpentrycon_2022/).
+
+*2022-08-08* - gwynn sturdevant and Jonathan Godfrey join panel at JSM 2022 on [Delivering Data Differently](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=319247).
+
+*2022-08-06* - Kevin O’Brien and Sam Toet help organize the first [Francophone satRday](https://satrdays.org/blog/2022/07/20/2022-francophone/).
 
 *2022-07-21* - Several Forwards members contribute to [Ten simple rules to host an inclusive conference](https://doi.org/10.1371/journal.pcbi.1010164) published in PLOS Computational Biology, 18(7): 1–13, 2022.
 
