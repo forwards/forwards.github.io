@@ -18,7 +18,7 @@ optimize_img <- function(
     compression = "Zip", # only really makes difference for png
     format = "png" # recommend "png", can use NULL to get same format as input
 ){
-    img <- image_read(file.path(image_dir, file))
+    img <- image_read(file.path(input_dir, file))
     
     if (image_info(img)$width > width){
       # resize to `width` px, using specified filter to sample pixels
@@ -29,12 +29,12 @@ optimize_img <- function(
     # strip metadata (may include date photo taken colour profile, colour space
     if (strip) img <- image_strip(img)
     
-    if (is.null(format)) format <- file_ext(files[i])
+    if (is.null(format)) format <- file_ext(file)
     
     output_dir <- file.path(input_dir, "optimized")
     if (!dir.exists(output_dir)) dir.create(output_dir)
     output_file <- file.path(output_dir, 
-                             paste0(file_path_sans_ext(files[i]), ".",
+                             paste0(file_path_sans_ext(file), ".",
                                     format))
     image_write(img, output_file, 
                 format = format, quality = quality, compression = compression)
