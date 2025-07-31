@@ -85,12 +85,20 @@ refer them without a file path.
 * Update the post date.
 * Check the blog source file is within the correct year's sub-directory.
 * Set `draft:false` in the YAML header
-* Click "Render website" on the Build tab in RStudio, or in the terminal run
+* Click "Render website" on the Build tab in RStudio to render the full website, 
+or in the terminal run e.g.
 
-        quarto render
+        quarto render blog/2025
     
-    This will update the listing on the "Blog" page - check the listing for 
-    the new post.
+    to render the posts for a given year (you can extend the path to be more 
+    specific). This will update the listing on the "Blog" page - check the 
+    listing for the new post.
+* Preview the blog by using the Render button on the source file window in RStudio, or otherwise run the following command in the terminal:
+   ```sh
+   quarto preview
+   ```
+* Use the menu in the preview to navigate to the blog listing - this will 
+cause the listing to be re-rendered; check the listing for the new post.
 * Check the [Editing checklist](#editing-checklist).
 * Commit your changes for the website to be built and deployed.
 
