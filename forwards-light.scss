@@ -60,6 +60,13 @@ $callout-color-important: $red;
   color: $primary;
 }
 
+.description {
+  font-style: italic;
+  font-size: 120%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
 // code
 pre.sourceCode {
   border-radius: 0;
