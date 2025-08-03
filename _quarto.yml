@@ -13,6 +13,7 @@ execute:
 website:
   draft-mode: unlinked
   title: "Forwards"
+  description: "R Foundation taskforce on women and other under-represented groups"
   site-url: https://forwards.github.io/
   favicon: "favicon-32x32.png"
   twitter-card:
@@ -86,4 +87,4 @@ format:
     toc: true  
     email-obfuscation: references
     include-in-header: analytics.html
-    description: "R Foundation taskforce on women and other under-represented groups."
+    

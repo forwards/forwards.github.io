@@ -60,13 +60,6 @@ $callout-color-important: $red;
   color: $primary;
 }
 
-.description {
-  font-style: italic;
-  font-size: 120%;
-  padding-top: 10px;
-  padding-bottom: 5px;
-}
-
 // code
 pre.sourceCode {
   border-radius: 0;
@@ -159,4 +152,16 @@ iframe.slide-deck {
 .dropdown-toggle:focus,
 .dropdown-toggle.show:focus {
   color: $orange !important;
+}
+
+.description {
+  font-style: italic;
+  font-size: 120%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.tagline {
+  font-size: 120%;
+  font-style: italic;
 }
