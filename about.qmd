@@ -31,6 +31,8 @@ Forwards is happy to engage with other individuals and organisations (such as [R
 
 ## Team Members
 
+[Lois Adler-Johnson](https://loisaj.com/) - ([LinkedIn](https://www.linkedin.com/in/loisaj/)/[Bluesky](https://bsky.app/profile/lois-aj.bsky.social)/[GitHub](https://github.com/joislohnson))
+
 [Mine Çetinkaya-Rundel](http://mine-cr.com/) - ([LinkedIn](https://www.linkedin.com/in/minec/)/[Bluesky](https://bsky.app/profile/minecr.bsky.social)/[Mastodon](https://fosstodon.org/@minecr)/[GitHub](https://github.com/mine-cetinkaya-rundel))
 
 Michael Chirico -  ([Bluesky](https://bsky.app/profile/michaelchirico.bsky.social)/[Mastodon](https://fosstodon.org/michaelchirico)/[GitHub](https://github.com/MichaelChirico))
@@ -42,6 +44,8 @@ Daniela Cialfi - ([LinkedIn](https://www.linkedin.com/in/daniela-cialfi/?origina
 [Paola Corrales](https://paocorrales.github.io/) - ([Mastodon](https://fosstodon.org/deck/@paocorrales)/[GitHub](https://github.com/paocorrales))
 
 Zane Dax - ([GitHub](https://github.com/PythonCoderUnicorn))
+
+[Jesica Formoso](https://jformoso.github.io/) - ([LinkedIn](https://www.linkedin.com/in/jesica-formoso-16ab4649/)/[Bluesky](https://bsky.app/profile/jformoso.bsky.social)/[GitHub](https://github.com/JFormoso))
 
 [gwynn gebeyehu](http://www.nzgwynn.com/) - ([Mastodon](https://mstdn.social/@nzgwynn)/[GitHub](https://github.com/nzgwynn))
 
