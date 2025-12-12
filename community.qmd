@@ -10,12 +10,12 @@ The R community groups with a particular mission to support members of underrepr
 - [AfricaR](https://r4africa.org/): working to achieve improved representation by encouraging, inspiring, and empowering the African population of all genders who are underrepresented in the global R community.
 - [MiR](https://mircommunity.com/): MiR Community hopes to provide a space of belonging and support for people who identify as underrepresented minority R useRs. They aim to provide opportunities for underrepresented minority useRs to contribute to the R community.
 - [Blind R User Group](https://www.nfbnet.org/mailman/listinfo/blindrug_nfbnet.org): a mailing list for anyone interested in knowing more about (or improving) the use of R by blind people. This would include blind students, their support staff, or anyone having an interest in how blind people will make use of R and related tools.
-- [Rainbow R (R LGBTQ+)](https://rainbowr.netlify.app/): a community that supports, promotes and connects LGBTQ+ people who code in the R language.
+- [rainbowR](https://rainbowr.org/): a community that connects, supports, and promotes and connects LGBTQ+ people who code in the R language, and spreads awareness of LGBTQ+ issues through data-driven activism.
 
 In addition, there are many general R User Groups open to all, some of which are listed in the following places:
 
- - [R Community Explorer](https://benubah.github.io/r-community-explorer/rugs.html) a dashboard that tracks meetups listed on Meetup.com.
- - [R User Group List](https://jumpingrivers.github.io/meetingsR/r-user-groups.html) maintained on GitHub by the R consultancy Jumping Rivers.
+- [R Community Explorer](https://benubah.github.io/r-community-explorer/rugs.html) a dashboard that tracks meetups listed on Meetup.com.
+- [R User Group List](https://jumpingrivers.github.io/meetingsR/r-user-groups.html) maintained on GitHub by the R consultancy Jumping Rivers.
 Others may be found by searching on Meetup or Facebook.
 
 Forwards is a taskforce set up by the R Foundation, the not-for-profit organization that supports the R project. Other organizations we work with include:
