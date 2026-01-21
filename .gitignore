@@ -4,3 +4,4 @@
 /_site/
 forwards.github.io.Rproj
 .Rhistory
+**/*.quarto_ipynb

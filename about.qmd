@@ -66,8 +66,6 @@ Imani Oluwafumilayo Maliti - ([LinkedIn](https://www.linkedin.com/in/imanimaliti
 
 Maria Prokofieva - ([LinkedIn](https://www.linkedin.com/in/mariapr/)/[Mastodon](https://fosstodon.org/@maria_pro)/[GitHub](https://github.com/maria-pro))
 
-[Emma Rand](https://www.york.ac.uk/biology/our-staff/emma-rand/) - ([LinkedIn](https://www.linkedin.com/in/emma-rand-6b0a61a/)/[Bluesky](https://bsky.app/profile/3mmarand.bsky.social)/[Mastodon](https://fosstodon.org/@3mma@mastodon.social)/[GitHub](https://github.com/3mmaRand))
-
 Joyce Robbins - ([LinkedIn](https://www.linkedin.com/in/joycerobbins/)/[Twitter](https://twitter.com/jtrnyc)/[GitHub](https://github.com/jtr13))
 
 Dillon Sparks - ([LinkedIn](https://www.linkedin.com/in/dillonsparks1/)/[GitHub](https://github.com/dillonsparks))
@@ -120,6 +118,7 @@ Shakirah Nakalungi,
 Richard Ngamita, 
 Wenfeng Qin, 
 Augustina Ragwitz, 
+Emma Rand,
 Maëlle Salmon, 
 Andrea Sánchez-Tapia, 
 Dorris Scott, 
