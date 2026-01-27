@@ -30,7 +30,7 @@ Forwards is happy to engage with other individuals and organisations (such as [R
 
 ## Team Members
 
-[Lois Adler-Johnson](https://loisaj.com/) - ([LinkedIn](https://www.linkedin.com/in/loisaj/)/[Bluesky](https://bsky.app/profile/lois-aj.bsky.social)/[GitHub](https://github.com/joislohnson))
+[Lois Adler-Johnson](https://loisaj.com/) - ([LinkedIn](https://www.linkedin.com/in/loisaj/)/[GitHub](https://github.com/joislohnson))
 
 [Mine Çetinkaya-Rundel](http://mine-cr.com/) - ([LinkedIn](https://www.linkedin.com/in/minec/)/[Bluesky](https://bsky.app/profile/minecr.bsky.social)/[Mastodon](https://fosstodon.org/@minecr)/[GitHub](https://github.com/mine-cetinkaya-rundel))
 
@@ -54,7 +54,7 @@ Zane Dax - ([GitHub](https://github.com/PythonCoderUnicorn))
 
 Saranjeet Kaur Bhogal -  ([LinkedIn](https://www.linkedin.com/in/saranjeet-kaur-48ab769b/)/[Bluesky](https://bsky.app/profile/saranjeet.fosstodon.org.ap.brid.gy)/[Mastodon](https://fosstodon.org/@saranjeet)/[GitHub](https://github.com/SaranjeetKaur))
 
-[Ella Kaye](https://ellakaye.co.uk) - ([LinkedIn](https://www.linkedin.com/in/ella-kaye-9b878248/)/[Bluesky](https://bsky.app/profile/ellakaye.co.uk)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
+[Ella Kaye](https://ellakaye.co.uk) - ([LinkedIn](https://www.linkedin.com/in/ellakaye/)/[Bluesky](https://bsky.app/profile/ellakaye.co.uk)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
 
 Michael Lawrence - ([LinkedIn](https://www.linkedin.com/in/michael-lawrence-74a9b482/)/[GitHub](https://github.com/lawremi))
 
@@ -66,7 +66,7 @@ Imani Oluwafumilayo Maliti - ([LinkedIn](https://www.linkedin.com/in/imanimaliti
 
 Maria Prokofieva - ([LinkedIn](https://www.linkedin.com/in/mariapr/)/[Mastodon](https://fosstodon.org/@maria_pro)/[GitHub](https://github.com/maria-pro))
 
-Joyce Robbins - ([LinkedIn](https://www.linkedin.com/in/joycerobbins/)/[Twitter](https://twitter.com/jtrnyc)/[GitHub](https://github.com/jtr13))
+Joyce Robbins - ([LinkedIn](https://www.linkedin.com/in/joycerobbins/)/[GitHub](https://github.com/jtr13))
 
 Dillon Sparks - ([LinkedIn](https://www.linkedin.com/in/dillonsparks1/)/[GitHub](https://github.com/dillonsparks))
 
