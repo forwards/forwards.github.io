@@ -32,17 +32,9 @@ Forwards is happy to engage with other individuals and organisations (such as [R
 
 [Lois Adler-Johnson](https://loisaj.com/) - ([LinkedIn](https://www.linkedin.com/in/loisaj/)/[GitHub](https://github.com/joislohnson))
 
-[Mine Çetinkaya-Rundel](http://mine-cr.com/) - ([LinkedIn](https://www.linkedin.com/in/minec/)/[Bluesky](https://bsky.app/profile/minecr.bsky.social)/[Mastodon](https://fosstodon.org/@minecr)/[GitHub](https://github.com/mine-cetinkaya-rundel))
-
-Michael Chirico -  ([Bluesky](https://bsky.app/profile/michaelchirico.bsky.social)/[Mastodon](https://fosstodon.org/michaelchirico)/[GitHub](https://github.com/MichaelChirico))
-
-Daniela Cialfi - ([LinkedIn](https://www.linkedin.com/in/daniela-cialfi/?originalSubdomain=it))
-
 [Di Cook](http://dicook.org) - ([LinkedIn](https://au.linkedin.com/in/dianne-cook-a4877a104)/[Bluesky](https://bsky.app/profile/visnut.bsky.social)/[Mastodon](https://aus.social/@visnut)/[GitHub](https://github.com/dicook))
 
 [Paola Corrales](https://paocorrales.github.io/) - ([Mastodon](https://fosstodon.org/deck/@paocorrales)/[GitHub](https://github.com/paocorrales))
-
-Zane Dax - ([GitHub](https://github.com/PythonCoderUnicorn))
 
 [Jesica Formoso](https://jformoso.github.io/) - ([LinkedIn](https://www.linkedin.com/in/jesica-formoso-16ab4649/)/[Bluesky](https://bsky.app/profile/jformoso.bsky.social)/[GitHub](https://github.com/JFormoso))
 
@@ -51,8 +43,6 @@ Zane Dax - ([GitHub](https://github.com/PythonCoderUnicorn))
 [Jonathan Godfrey](https://r-resources.massey.ac.nz/BrailleR) - ([GitHub](https://github.com/ajrgodfrey))
 
 [Julie Josse](http://juliejosse.com/) -  ([LinkedIn](https://www.linkedin.com/in/julie-josse-4886a2140/)/[GitHub](https://github.com/julierennes))
-
-Saranjeet Kaur Bhogal -  ([LinkedIn](https://www.linkedin.com/in/saranjeet-kaur-48ab769b/)/[Bluesky](https://bsky.app/profile/saranjeet.fosstodon.org.ap.brid.gy)/[Mastodon](https://fosstodon.org/@saranjeet)/[GitHub](https://github.com/SaranjeetKaur))
 
 [Ella Kaye](https://ellakaye.co.uk) - ([LinkedIn](https://www.linkedin.com/in/ellakaye/)/[Bluesky](https://bsky.app/profile/ellakaye.co.uk)/[Mastodon](https://fosstodon.org/@ellakaye)/[GitHub](https://github.com/EllaKaye))
 
@@ -63,8 +53,6 @@ Michael Lawrence - ([LinkedIn](https://www.linkedin.com/in/michael-lawrence-74a9
 Kevin O’Brien - ([LinkedIn](https://ie.linkedin.com/in/kobriendublin)/[Bluesky](https://bsky.app/profile/kobriendublin.bsky.social)/[Mastodon](https://fosstodon.org/@kobriendublin)/[GitHub](https://github.com/DragonflyStats))
 
 Imani Oluwafumilayo Maliti - ([LinkedIn](https://www.linkedin.com/in/imanimaliti)/[GitHub](https://github.com/iom2105))
-
-Maria Prokofieva - ([LinkedIn](https://www.linkedin.com/in/mariapr/)/[Mastodon](https://fosstodon.org/@maria_pro)/[GitHub](https://github.com/maria-pro))
 
 Joyce Robbins - ([LinkedIn](https://www.linkedin.com/in/joycerobbins/)/[GitHub](https://github.com/jtr13))
 
@@ -86,9 +74,13 @@ Yanina Bellini Saibene,
 Jyoti Bhogal, 
 Stella Bollman, 
 Jenny Bryan, 
+Mine Cetinkaya-Rundel, 
 Damiano Cerasuolo, 
 Pavitra Chakravarty, 
+Michael Chirico, 
+Daniela	Cialfi, 
 Nic Crane, 
+Zane Dax, 
 Rudolf Debelak, 
 Emily Dodwell, 
 Jasmine Dumas, 
@@ -107,6 +99,7 @@ Liz Kellogg,
 Os Keyes, 
 Joslynn Lee, 
 Angela Li, 
+Saranjeet	Kaur Bhogal, 
 Florencia Mangini, 
 Imke Mayer, 
 Gina Merchant, 
@@ -116,6 +109,7 @@ Ritwik Mitra,
 Jesse Mostipak, 
 Shakirah Nakalungi, 
 Richard Ngamita, 
+Maria	Prokofieva, 
 Wenfeng Qin, 
 Augustina Ragwitz, 
 Emma Rand,
@@ -134,6 +128,13 @@ Charlotte Wickham,
 Hadley Wickham, 
 Becca Wilson, 
 Yizhe Xu
+
+
+
+
+
+
+
 
 
 
