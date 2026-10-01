@@ -2,6 +2,8 @@
 
 ## Survey Reports
 
+[useR! 2025 survey](useR2025_survey)
+
 [useR! 2024 survey](useR2024_survey)
 
 [useR! 2022 survey](useR2022_survey)
